@@ -151,7 +151,7 @@ stack Web development with python Django , Full stack Web development with PHP, 
                   </li>
                   <li>
                     <i class="flaticon-call"></i>
-                    <a href="tel:+916367742348"> +91 6367742348</a>
+                    <a href="tel:+916367742348"> +91 6367742348 +91 6367742348</a>
                   </li>
                   <li>
                     <i class="flaticon-location"></i>
