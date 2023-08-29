@@ -2,7 +2,7 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : Braintech - Technology & IT Solutions HTML Template
+* Template : Educavo - Education HTML Template
 * Author : rs-theme
 * Author URI : http://www.rstheme.com/
 *
@@ -57,7 +57,7 @@
        
        if ($.fn.onePageNav) {
            $(".nav-menu").onePageNav({
-               currentClass: "current-menu-item"
+               currentClass: "active-menu"
            });
        }
    }
@@ -68,10 +68,10 @@
         $('.slider-for').slick({
             slidesToShow: 1,
             slidesToScroll: 1,
-            arrows: false,
+            arrows: true,
             fade: true,
             asNavFor: '.slider-nav',
-             autoplay: true
+            autoplay: true
         });
     }
     var slidernav = $('.slider-nav');
@@ -186,44 +186,6 @@
             fixedContentPos: false
         }); 
     }
-
-    //CountDown Timer
-    var CountTimer = $('.CountDownTimer');
-    if(CountTimer.length){ 
-        $(".CountDownTimer").TimeCircles({
-            fg_width: 0.030,
-            bg_width: 0.8,
-            circle_bg_color: "#eeeeee",
-            circle_fg_color: "#eeeeee",
-            time: {
-                Days:{
-                    color: "#032390"
-                },
-                Hours:{
-                    color: "#032390"
-                },
-                Minutes:{
-                    color: "#032390"
-                },
-                Seconds:{
-                    color: "#032390"
-                }
-            }
-        }); 
-    }
-
-    var pieChart = $('.progress-pie-part');
-    if(pieChart.length) {
-        $('.chart').easyPieChart({
-            size: 172,
-            barColor: "#032390",
-            scaleLength: 0,
-            lineWidth: 8,
-            trackColor: "#eeeeee",
-            lineCap: "circle",
-            animate: 2000,
-        });
-    }
     
     /*-------------------------------------
         OwlCarousel
@@ -277,19 +239,19 @@
                     dots: (xsDeviceDots ? true : false),
                     center: false,
                 },
-                768: {
+                576: {
                     items: (smDevice2 ? smDevice2 : 2),
                     nav: (smDeviceNav2 ? true : false),
                     dots: (smDeviceDots2 ? true : false),
                     center: false,
                 },
-                992: {
+                768: {
                     items: (smDevice ? smDevice : 3),
                     nav: (smDeviceNav ? true : false),
                     dots: (smDeviceDots ? true : false),
                     center: false,
                 },
-                1200: {
+                992: {
                     items: (mdDevice ? mdDevice : 4),
                     nav: (mdDeviceNav ? true : false),
                     dots: (mdDeviceDots ? true : false),
@@ -336,11 +298,19 @@
     //canvas menu
     var navexpander = $('#nav-expander');
     if(navexpander.length){
-        $('#nav-expander, #nav-close, .offwrap').on('click',function(e){
+        $('#nav-expander').on('click',function(e){
             e.preventDefault();
             $('body').toggleClass('nav-expanded');
         });
     }
+    var navclose = $('#nav-close');
+    if(navclose.length){
+        $('#nav-close').on('click',function(e){
+            e.preventDefault();
+            $('body').removeClass('nav-expanded');
+        });
+    }
+
 
     // View Course
     $('.course-view-part .view-icons .view-grid').on('click',function(e){

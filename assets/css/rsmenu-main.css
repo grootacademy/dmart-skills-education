@@ -111,6 +111,9 @@ Version: 1.0.0
 
 .rs-header .menu-area .logo-area {
     position: relative;
+    width: 150px;
+    height: 96px;
+    line-height: 96px;
 }
 .rs-header .menu-area .logo-area img{
     max-width: 100%;
@@ -125,7 +128,12 @@ Version: 1.0.0
 }
 .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a {
   transition: all 0.3s ease 0s;
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
   text-transform: capitalize;
+  height: 96px;
+  line-height: 96px;
+  padding: 0;
   color: #fff;
 }
 .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
@@ -188,10 +196,10 @@ Version: 1.0.0
   font-weight: 400;
 }
 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
-  color: #ffa000;
+  color: #ffa000 !important;
 }
 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li.active a {
-  color: #ffa000;
+  color: #ffa000 !important;
 }
 
 
@@ -249,9 +257,9 @@ Version: 1.0.0
 /*-----------------------------------------------------------------------------------*/
 .rs-header .menu-area .main-menu .rs-menu .nav-menu .mega-menu {
 	position: absolute;
-	right: 0;  
+	left: 0;  
 	background-color: #ffffff;
-	min-width: 1240px;
+	min-width: 700px;
 }
 
 
@@ -453,7 +461,8 @@ Version: 1.0.0
 
 	/* Adjust position the sub-menus in the left */
 	.rs-menu ul ul li > ul {
-		left: 100%;
+		left: auto;
+		right: 100%;
 	}
 	
 	/* Adjust position the sub-menus on the top */
@@ -479,27 +488,28 @@ Version: 1.0.0
     .rs-header .menu-area.menu-sticky {
         transition: all 0.3s ease 0s;
     }
+
     .rs-header .menu-area.menu-sticky.sticky {
-		background: #fff;
-		position: fixed;
-		z-index: 999;
-		margin: 0 auto;
-		border: none;
-		padding: 0;
-		top: 0;
-		left: 0;
-		right: 0;
-		width: 100%;
-		-webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
-		box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
-		-webkit-animation-duration: .5s;
-		animation-duration: .5s;
-		-webkit-animation-name: sticky-animation;
-		animation-name: sticky-animation;
-		-webkit-animation-timing-function: ease-out;
-		animation-timing-function: ease-out;
-		-webkit-animation-fill-mode: both;
-		animation-fill-mode: both;
+      background: #fff;
+	    position: fixed;
+	    z-index: 999;
+	    margin: 0 auto;
+      border: none;
+	    padding: 0;
+	    top: 0;
+	    left: 0;
+	    right: 0;
+	    width: 100%;
+	    -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+	    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.2);
+      -webkit-animation-duration: .5s;
+      animation-duration: .5s;
+      -webkit-animation-name: sticky-animation;
+      animation-name: sticky-animation;
+      -webkit-animation-timing-function: ease-out;
+      animation-timing-function: ease-out;
+      -webkit-animation-fill-mode: both;
+      animation-fill-mode: both;
     }
     .rs-header .menu-area.sticky .main-menu .rs-menu ul li > a {
       color: #161616;
@@ -586,6 +596,7 @@ Version: 1.0.0
 		height: 50px;
 		line-height: 50px;
 	}
+	
 	.nav-menu div.sub-menu-close i {		
 		font-size:16px;
 		margin-right: 5px;
@@ -600,8 +611,8 @@ Version: 1.0.0
 	}
 
 	.rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a {
-		height: 50px !important;
-		line-height: 50px !important;
+		height: 70px !important;
+		line-height: 70px !important;
 		padding: 0 0 0 20px !important;
 	}
 
@@ -640,8 +651,8 @@ Version: 1.0.0
 		position: absolute;
 		right: 0;
 		top: 0;
-		height: 49px;
-		line-height: 49px;
+		height: 69px;
+		line-height: 69px;
 		width: 45px;
 		text-align: center;
 		cursor:pointer;
@@ -657,8 +668,8 @@ Version: 1.0.0
 		background: #ddd;
 		right: 0;
 		top: 0;
-		height: 50px;
-		line-height: 50px;
+		height: 47px;
+		line-height: 47px;
 		width: 45px;
 		text-align: center;
 		cursor: pointer;
@@ -681,10 +692,10 @@ Version: 1.0.0
 		display: block;
 		text-align: right;
 		position: relative;
-		height: auto;
-		line-height: auto;
+		height: 90px;
+		line-height: 90px;
 		cursor:pointer;		
-		color: #333;
+		color: #333 !important;
 		font-size: 22px;
 		text-transform: uppercase;	
 		-webkit-tap-highlight-color:rgba(0,0,0,0);

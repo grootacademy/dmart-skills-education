@@ -4,14 +4,13 @@
 *
 * -----------------------------------------------------------------------------
 *
-* Template : Cretic - Creative Agency & Portfolio HTML Template
+* Template : Educavo - Education HTML Template
 * Author : rs-theme
 * Author URI : http://www.rstheme.com/
 *
 * -----------------------------------------------------------------------------
 *
 **/
-
 
 .rs-offcanvas-link {
 
@@ -45,26 +44,25 @@ a.nav-expander:hover {
 }
 
 nav.right_menu_togle {
-  background: rgba(0,0,0,0.9);
-  display: block;
-  height: 100%;
-  overflow: auto;
-  position: fixed;
-  right: -520px;
-  font-size: 15px;
-  top: 0;
-  width: 100%;
-  max-width: 520px;
-  z-index: 2000;
-  transition: right 0.3s ease-in-out 0s;
-  -webkit-transition: right 0.3s ease-in-out 0s;
-  -moz-transition: right 0.3s ease-in-out 0s;
-  -o-transition: right 0.3s ease-in-out 0s;
+	background: rgba(0,0,0,0.9);
+	display: block;
+	height: 100%;
+	overflow: auto;
+	position: fixed;
+	right: -23em;
+	font-size: 15px;
+	top: 0;
+	width: 23em;
+	z-index: 2000;
+	transition: right 0.3s ease-in-out 0s;
+	-webkit-transition: right 0.3s ease-in-out 0s;
+	-moz-transition: right 0.3s ease-in-out 0s;
+	-o-transition: right 0.3s ease-in-out 0s;
 }
 .nav-expanded nav {
-  right: 0;
+  right: 0 !important;
 }
-
+ 
 body.nav-expanded {
   margin-left: 0em;
   transition: right 0.4s ease-in-out 0s;
@@ -73,8 +71,8 @@ body.nav-expanded {
   -o-transition: right 0.4s ease-in-out 0s;
 }
 .right_menu_togle .close-btn{
-  overflow: hidden;
-  padding: 35px 10px 20px;
+	overflow: hidden;
+	padding: 35px 10px 20px;
 }
 .right_menu_togle .canvas-logo{
     padding-left: 24px;
@@ -111,8 +109,23 @@ body.nav-expanded {
     font-size: 18px;
 }
 
+span#nav-close {
+	font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+    display: block;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    line-height: 26px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    float: right;
+    font-weight: bold;
+}
+
 .sidebarnav_menu.main-menu li.menu-item-has-children:before{
-  position: absolute;
+	position: absolute;
     content: "\f078";
     font-family: FontAwesome;
     color: #ffffff;
@@ -127,18 +140,18 @@ body.nav-expanded {
     z-index: 999;
     text-align: center;
     font-size: 15px;
-  transition: 0.4s;
-  -webkit-transition: 0.4s;
-  -ms-transition: 0.4s;
+	transition: 0.4s;
+	-webkit-transition: 0.4s;
+	-ms-transition: 0.4s;
 }
 .sidebarnav_menu.main-menu li.menu-item-has-children.open:before{
     content: "\f077";
-  transition: 0.4s;
-  -webkit-transition: 0.4s;
-  -ms-transition: 0.4s;
+	transition: 0.4s;
+	-webkit-transition: 0.4s;
+	-ms-transition: 0.4s;
 }
 .sidebarnav_menu.main-menu li.menu-item-has-children ul{
-  display: none;
+	display: none;
 }
 .sidebarnav_menu.main-menu li.menu-item-has-children ul li a{
     display: block;
@@ -148,7 +161,7 @@ body.nav-expanded {
 
 .sidebarnav_menu.main-menu li ul li:hover a,
 .sidebarnav_menu.main-menu li ul li.active a{
-  background: rgba(0,0,0,0.15) !important;
+	background: rgba(0,0,0,0.15) !important;
 }
 .sidebarnav_menu.main-menu li {
   border-bottom: 1px solid rgba(255,255,255,0.15);
@@ -157,13 +170,13 @@ body.nav-expanded {
   display: block;
 }
 .sidebarnav_menu.main-menu .list-unstyled li:last-child {
-  border-bottom: 0;
+	border-bottom: 0;
 }
 .sidebarnav_menu.main-menu .list-unstyled {
-  border-top: 1px solid rgba(255,255,255,0.15);
+ 	border-top: 1px solid rgba(255,255,255,0.15);
 }
 .sidebarnav_menu.main-menu .list-unstyled li {
-  border: 0;
+	border: 0;
 }
 .sidebarnav_menu.main-menu li a {
   color: #fff;
@@ -183,30 +196,30 @@ body.nav-expanded {
 }
  
 .sidebarnav_menu.main-menu a .caret {
-  width: 0;
-  height: 0;
-  display: inline-block;
-  vertical-align: top;
-  border-top: 4px solid #4f5963;
-  border-right: 4px solid transparent;
-  border-left: 4px solid transparent;
-  content: "";
+	width: 0;
+	height: 0;
+	display: inline-block;
+	vertical-align: top;
+	border-top: 4px solid #4f5963;
+	border-right: 4px solid transparent;
+	border-left: 4px solid transparent;
+	content: "";
     margin-top: 8px;
 }
  
 .sidebarnav_menu.main-menu a:hover .caret {
-  border-top-color: #4f5963;
+	border-top-color: #4f5963;
 }
  
 .sidebarnav_menu.main-menu li.open > a > .caret {
-  border-top: none;
-  border-bottom: 4px solid #4f5963;
-  border-right: 4px solid transparent;
-  border-left: 4px solid transparent;
+	border-top: none;
+	border-bottom: 4px solid #4f5963;
+	border-right: 4px solid transparent;
+	border-left: 4px solid transparent;
 }
  
 .sidebarnav_menu.main-menu li.open > a:hover > .caret {
-  border-bottom-color: #4f5963;
+	border-bottom-color: #4f5963;
 }
  
 .icon:before {
@@ -244,5 +257,5 @@ body.nav-expanded {
 }
 .rs-menu.rs-menu-close,
 .sidebar_nav.navbar-inverse{
-  background: transparent;
+	background: transparent;
 }

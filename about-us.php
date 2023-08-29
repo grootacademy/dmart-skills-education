@@ -1,523 +1,589 @@
-<?php include 'includes/header.php';?>         
+<?php include('includes/header.php'); ?>
+
+                <!-- Canvas Menu start -->
+                <nav class="right_menu_togle hidden-md">
+                    <div class="close-btn">
+                        <div id="nav-close">
+                            <div class="line">
+                                <span class="line1"></span><span class="line2"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="canvas-logo">
+                        <a href="index-2.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
+                    </div>
+                    <div class="offcanvas-text">
+                        <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo  by the charms of pleasure of the moment data com so blinded by desire.</p>
+                    </div>
+                    <div class="offcanvas-gallery">
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/1.jpg"><img src="assets/images/gallery/1.jpg" alt=""></a>
+                        </div>
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/2.jpg"><img src="assets/images/gallery/2.jpg" alt=""></a>
+                        </div>
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/3.jpg"><img src="assets/images/gallery/3.jpg" alt=""></a>
+                        </div>
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/4.jpg"><img src="assets/images/gallery/4.jpg" alt=""></a>
+                        </div>
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/5.jpg"><img src="assets/images/gallery/5.jpg" alt=""></a>
+                        </div>
+                        <div class="gallery-img">
+                            <a class="image-popup" href="assets/images/gallery/6.jpg"><img src="assets/images/gallery/6.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="map-img">
+                        <img src="assets/images/map.jpg" alt="">
+                    </div>
+                    <div class="canvas-contact">
+                        <ul class="social">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                </nav>
+                <!-- Canvas Menu end -->
+            </header>
+            <!--Header End-->
+        </div>
+        <!--Full width header End-->
+
+		<!-- Main content Start -->
+        <div class="main-content">
             <!-- Breadcrumbs Start -->
-            <div class="rs-breadcrumbs img1">
-                <div class="breadcrumbs-inner text-center">
-                    <h1 class="page-title">About</h1>
+            <div class="rs-breadcrumbs breadcrumbs-overlay">
+                <div class="breadcrumbs-img">
+                    <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+                </div>
+                <div class="breadcrumbs-text white-color">
+                    <h1 class="page-title">About Us</h1>
                     <ul>
-                        <li title="Braintech - IT Solutions and Technology Startup HTML Template">
-                            <a class="active" href="index.php">Home</a>
+                        <li>
+                            <a class="active" href="index-2.html">Home</a>
                         </li>
-                        <li>About</li>
+                        <li>About Us</li>
                     </ul>
                 </div>
             </div>
             <!-- Breadcrumbs End -->
 
-            <!-- About Section Start -->
-            <div class="rs-about gray-color pt-120 pb-120 md-pt-80 md-pb-80">
+            <!-- Counter Section Start -->
+            <div id="rs-about" class="rs-about style3 pt-100 md-pt-70">
                 <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-6 md-mb-30">
-                            <div class="rs-animation-shape">
-                                <div class="images">
-                                   <img src="assets/images/about/about-3.png" alt=""> 
-                                </div>
-                                <div class="middle-image2">
-                                   <img class="dance3" src="assets/images/about/effect-1.png" alt=""> 
+                    <div class="row y-middle">
+                        <div class="col-lg-4 lg-pr-0 md-mb-30">
+                            <div class="about-intro">
+                                <div class="sec-title">
+                                    <div class="sub-title orange">About Us</div>
+                                    <h2 class="title mb-21">The End Result of All True Learning</h2>
+                                    <div class="desc big">The key to success is to appreciate how people learn, understand the thought process that goes into instructional design, what works well, and a range of differen</div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 pl-60 md-pl-15">
-                            <div class="contact-wrap">
-                                <div class="sec-title mb-30">
-                                    <div class="sub-text style-bg">About Us</div>
-                                    <h2 class="title pb-38">
-                                        We Are Increasing Business Success With Technology
-                                    </h2>
-                                    <div class="desc pb-35">
-                                       Over 25 years working in IT services developing software applications and mobile apps for clients all over the world.
+                        <div class="col-lg-8 pl-83 md-pl-15">
+                            <div class="row rs-counter couter-area">
+                                <div class="col-md-4 sm-mb-30">
+                                    <div class="counter-item one">
+                                        <img class="count-img" src="assets/images/about/style3/icons/1.png" alt="">
+                                        <h2 class="number rs-count kplus">2</h2>
+                                        <h4 class="title mb-0">Students</h4>
                                     </div>
-                                    <p class="margin-0 pb-15">
-                                      We denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying.
-                                    </p>
                                 </div>
-                                <div class="btn-part">
-                                    <a class="readon learn-more" href="contact.php">Learn-More</a>
+                                <div class="col-md-4 sm-mb-30">
+                                    <div class="counter-item two">
+                                        <img class="count-img" src="assets/images/about/style3/icons/2.png" alt="">
+                                        <h2 class="number rs-count">3.50</h2>
+                                        <h4 class="title mb-0">Average CGPA</h4>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="counter-item three">
+                                        <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
+                                        <h2 class="number rs-count percent">95</h2>
+                                        <h4 class="title mb-0">Graduates</h4>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="shape-image">
-                        <img class="top dance" src="assets/images/about/dotted-3.png" alt="">
+                </div>
+            </div>
+            <!-- Counter Section End -->
+
+            <!-- About Section Start -->
+            <div id="rs-about-video" class="rs-about-video pt-100 pb-100 md-pt-70 md-pb-70">
+                <div class="container">
+                    <div class="video-img-part media-icon orange-color2">
+                        <img src="assets/images/about/about-video-bg-orange.png" alt="Video Bg Image">
+                        <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
+                            <i class="fa fa-play"></i>
+                        </a>
                     </div>
                 </div>
             </div>
             <!-- About Section End -->
 
             <!-- Team Section Start -->
-            <div class="rs-team pt-120 pb-120 md-pt-80 md-pb-80 xs-pb-54"> 
-                <div class="sec-title2 text-center mb-30">
-                    <span class="sub-text style-bg white-color">Team</span>
-                    <h2 class="title white-color">
-                        Expert IT Consultants
-                    </h2>
-                </div>               
+            <div id="rs-team" class="rs-team style1 inner-style orange-color pt-94 pb-100 md-pt-64 md-pb-70 gray-bg">
                 <div class="container">
-                    <div class="container"> 
-                        <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="true" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="true" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="true" data-md-device="3" data-md-device-nav="false" data-md-device-dots="true">
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/1.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Makhaia Antitni</a></h4>
-                                    <span class="designation">President & CEO</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/2.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Corey Anderson</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/3.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Masud Rana</a></h4>
-                                    <span class="designation">Web Developer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/4.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Najmul Huda</a></h4>
-                                    <span class="designation">Digital Marketer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/5.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Rushali Rumi</a></h4>
-                                    <span class="designation">Design Lead</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/6.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Abu Sayed</a></h4>
-                                    <span class="designation">App Developer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/7.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Sonia Akhter</a></h4>
-                                    <span class="designation">Graphic Artist</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/8.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Rayhan Ali</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/9.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Benjir Akther</a></h4>
-                                    <span class="designation">Graphic Designer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/1.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Makhaia Antitni</a></h4>
-                                    <span class="designation">President & CEO</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/2.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Corey Anderson</a></h4>
-                                    <span class="designation">CEO & Founder</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/3.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Masud Rana</a></h4>
-                                    <span class="designation">Web Developer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="team-item-wrap">
-                                <div class="team-wrap">
-                                    <div class="image-inner">
-                                        <a href="single-team.php"><img src="assets/images/team/style1/4.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="team-content text-center">
-                                    <h4 class="person-name"><a href="single-team.php">Najmul Huda</a></h4>
-                                    <span class="designation">Digital Marketer</span>
-                                    <ul class="team-social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-            </div>
-            <!-- Team Section End -->
-
-            <!-- Process Section Start -->
-            <div class="rs-process style2 pt-120 pb-120 md-pt-80 md-pb-73">
-                <div class="container">
-                    <div class="sec-title2 text-center mb-45">
-                        <span class="sub-text style-bg">Process</span>
-                        <h2 class="title title2">
-                           Our Working Process
-                        </h2>
+                    <div class="sec-title mb-50 md-mb-30 text-center">
+                        <div class="sub-title orange">Instructor</div>
+                        <h2 class="title mb-0">Expert Teachers</h2>
                     </div>
                     <div class="row">
-                        <div class="col-lg-3 col-sm-6 md-mb-50">
-                            <div class="addon-process">
-                                <div class="process-wrap">
-                                    <div class="process-img">
-                                        <img src="assets/images/process/1.png" alt="">
-                                    </div>
-                                    <div class="process-text">
-                                        <h3 class="title">Discovery</h3>
-                                    </div>
+                        <div class="col-lg-4 col-sm-6 mb-30">
+                            <div class="team-item">
+                                <img src="assets/images/team/1.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6 md-mb-50">
-                            <div class="addon-process">
-                                <div class="process-wrap">
-                                    <div class="process-img">
-                                        <img src="assets/images/process/2.png" alt="">
-                                    </div>
-                                    <div class="process-text">
-                                        <h3 class="title"> Planning</h3>
-                                    </div>
+                        <div class="col-lg-4 col-sm-6 mb-30">
+                            <div class="team-item">
+                                <img src="assets/images/team/2.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="addon-process">
-                                <div class="process-wrap">
-                                    <div class="process-img">
-                                        <img src="assets/images/process/3.png" alt="">
-                                    </div>
-                                    <div class="process-text">
-                                        <h3 class="title">Execute</h3>
-                                    </div>
+                        <div class="col-lg-4 col-sm-6 mb-30">
+                            <div class="team-item">
+                                <img src="assets/images/team/3.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="#">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-6">
-                            <div class="addon-process">
-                                <div class="process-wrap">
-                                    <div class="process-img">
-                                        <img src="assets/images/process/4.png" alt="">
-                                    </div>
-                                    <div class="process-text">
-                                        <h3 class="title">Deliver</h3>
-                                    </div>
+                        <div class="col-lg-4 col-sm-6 md-mb-30">
+                            <div class="team-item">
+                                <img src="assets/images/team/2.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6 xs-mb-30">
+                            <div class="team-item">
+                                <img src="assets/images/team/3.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="#">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-6">
+                            <div class="team-item">
+                                <img src="assets/images/team/1.jpg" alt="">
+                                <div class="content-part">
+                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+                                    <span class="designation">Professor</span>
+                                    <ul class="social-links">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- Process Section End -->
+            <!-- Team Section End -->            
 
-            <!-- Pricing section start -->
-            <div class="rs-pricing style2 gray-color pt-120 pb-143 md-pt-80 md-pb-80">
+            <!-- Testimonial Section Start -->
+            <div class="rs-testimonial style3 orange-color pt-90 md-pt-70">
                 <div class="container">
-                    <div class="sec-title2 text-center mb-45">
-                        <span class="sub-text style-bg">Pricing</span>
-                        <h2 class="title title2">
-                           Our Pricing Plan
-                        </h2>
+                    <div class="sec-title mb-60 md-mb-30 text-center">
+                        <div class="sub-title orange">Student Reviews</div>
+                        <h2 class="title mb-0">What Our Students Says</h2>
                     </div>
-                   <div class="row">
-                       <div class="col-lg-4 md-mb-30">
-                           <div class="pricing-table new-style2">
-                               <div class="pricing-badge">
-                                   Silver
-                               </div>
-                               <div class="pricing-icon">
-                                   <img src="assets/images/pricing/main-home/icons/1.png" alt="">
-                               </div>
-                               <div class="pricing-table-price">
-                                    <div class="pricing-table-bags">
-                                        <span class="pricing-currency">$</span>
-                                        <span class="table-price-text">29.99</span>
-                                        <span class="table-period">Monthly Package</span>
+                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="2" data-md-device-nav="false" data-md-device-dots="true">
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/1.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
                                     </div>
-                               </div>
-                               <div class="pricing-table-body">
-                                   <ul>
-                                       <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                       <li><i class="fa fa-check"></i><span>1 Native Android App</span></li>
-                                       <li><i class="fa fa-close"></i><span>Multi-Language Support</span></li>
-                                       <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-                                   </ul>
-                               </div>
-                               <div class="btn-part">
-                                   <a class="readon buy-now" href="contact.php">Buy Now</a>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="col-lg-4 md-mb-30">
-                           <div class="pricing-table primary-bg">
-                               <div class="pricing-badge white-color-bg">
-                                   Gold
-                               </div>
-                               <div class="pricing-icon">
-                                   <img src="assets/images/pricing/main-home/icons/2.png" alt="">
-                               </div>
-                              <div class="pricing-table-price">
-                                   <div class="pricing-table-bags">
-                                       <span class="pricing-currency">$</span>
-                                       <span class="table-price-text">39.99</span>
-                                       <span class="table-period">Monthly Package</span>
-                                   </div>
-                              </div>
-                               <div class="pricing-table-body">
-                                   <ul>
-                                        <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                        <li><i class="fa fa-check"></i><span>2 Native Android App</span></li>
-                                        <li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
-                                        <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-                                   </ul>
-                               </div>
-                               <div class="btn-part">
-                                   <a class="readon buy-now" href="contact.php">Buy Now</a>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="col-lg-4">
-                           <div class="pricing-table new-style2">
-                               <div class="pricing-badge">
-                                   Platinum
-                               </div>
-                               <div class="pricing-icon">
-                                   <img src="assets/images/pricing/main-home/icons/3.png" alt="">
-                               </div>
-                                <div class="pricing-table-price">
-                                     <div class="pricing-table-bags">
-                                         <span class="pricing-currency">$</span>
-                                         <span class="table-price-text">79.99</span>
-                                         <span class="table-period">Monthly Package</span>
-                                     </div>
                                 </div>
-                               <div class="pricing-table-body">
-                                   <ul>
-                                        <li><i class="fa fa-check"></i><span>Powerful Admin Panel</span></li>
-                                        <li><i class="fa fa-check"></i><span>3 Native Android App</span></li>
-                                        <li><i class="fa fa-check"></i><span>Multi-Language Support</span></li>
-                                        <li><i class="fa fa-check"></i><span>Support via E-mail and Phone</span></li>
-                                   </ul>
-                               </div>
-                               <div class="btn-part">
-                                   <a class="readon buy-now" href="contact.php">Buy Now</a>
-                               </div>
-                           </div>
-                       </div>
-                   </div>
-                </div>
-            </div>
-            <!-- Pricing section end -->
-
-            <!-- Counter Section Start -->
-            <div class="rs-contact-wrap bg5 pt-120 pb-390 md-pt-80">
-               <div class="container">
-                 <div class="sec-title2 text-center mb-30">
-                     <span class="sub-text style-bg white-color">Contact</span>
-                     <h2 class="title white-color">
-                        Request A Free Consultation
-                     </h2>
-                 </div>           
-               </div>
-            </div>
-            <!-- Counter Section End -->
-
-            <!-- Video Section End -->
-            <div class="rs-video-wrap style2 inner pb-120 md-pb-80">
-                <div class="container">
-                    <div class="row margin-0 gray-color">
-                        <div class="col-lg-6 padding-0">
-                            <div class="video-item">
-                                <div class="rs-videos">
-                                    <div class="animate-border main-home style2">
-                                        <a class="popup-border popup-videos" href="https://www.youtube.com/watch?v=YLN1Argi7ik">
-                                            <i class="fa fa-play"></i>
-                                        </a>
-                                    </div>
-                                </div> 
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-lg-6 padding-0">
-                            <div class="rs-requset">                              
-                                <div id="form-messages"></div>
-                                <form id="contact-form" method="post" action="https://rstheme.com/products/html/braintech/mailer.php">
-                                    <fieldset>
-                                        <div class="row">
-                                            <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                                <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                            </div> 
-                                            <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                                <input class="from-control" type="text" id="email" name="email" placeholder="E-Mail" required="">
-                                            </div>   
-                                            <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                                <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone Number" required="">
-                                            </div>   
-                                            <div class="col-lg-6 mb-30 col-md-6 col-sm-6">
-                                                <input class="from-control" type="text" id="Website" name="subject" placeholder="Your Website" required="">
-                                            </div>
-                                      
-                                            <div class="col-lg-12 mb-45">
-                                                <textarea class="from-control" id="message" name="message" placeholder="Your message Here" required=""></textarea>
-                                            </div>
-                                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/2.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/3.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/4.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/5.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/6.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/7.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/8.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/9.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="testi-item">
+                            <div class="row y-middle no-gutter">
+                                <div class="col-md-4">
+                                    <div class="user-info">
+                                        <img src="assets/images/testimonial/style3/10.png" alt="">
+                                        <h4 class="name">Saiko Najran</h4>
+                                        <span class="designation">Student</span>
+                                        <ul class="ratings">
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Testimonial Section End -->
+
+            <!-- Blog Section Start -->
+            <div id="rs-blog" class="rs-blog orange-color style1 modify1 pt-85 pb-100 md-pt-70 md-pb-70">
+                <div class="container">
+                    <div class="sec-title mb-60 md-mb-30 text-center">
+                        <div class="sub-title orange">News Update </div>
+                        <h2 class="title mb-0">Latest News & Events</h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-7 pr-60 md-pr-15 md-mb-30">
+                            <div class="row no-gutter white-bg blog-item mb-35">
+                                <div class="col-md-6">
+                                    <div class="image-part">
+                                        <a href="#"><img src="assets/images/blog/style3/1.jpg" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="blog-content">
+                                        <ul class="blog-meta">
+                                            <li><i class="fa fa-user-o"></i> Admin</li>
+                                            <li><i class="fa fa-calendar"></i>June 15, 2019</li>
+                                        </ul>
+                                        <h3 class="title"><a href="blog-single.html">Modern School The Lovely Valley Team Work</a></h3>
                                         <div class="btn-part">
-                                          <a class="submit sub-small" href="#">Submit Now</a>
-                                        </div> 
-                                    </fieldset>
-                                </form> 
+                                            <a class="readon-arrow" href="#">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row no-gutter white-bg blog-item">
+                                <div class="col-md-6 order-last">
+                                    <div class="image-part">
+                                        <a href="#"><img src="assets/images/blog/style3/2.jpg" alt=""></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="blog-content">
+                                        <ul class="blog-meta">
+                                            <li><i class="fa fa-user-o"></i> Admin</li>
+                                            <li><i class="fa fa-calendar"></i>June 15, 2019</li>
+                                        </ul>
+                                        <h3 class="title"><a href="blog-single.html">High School Program Starting Soon 2021</a></h3>
+                                        <div class="btn-part">
+                                            <a class="readon-arrow" href="#">Read More</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 lg-pl-0">
+                            <div class="events-short mb-28">
+                                <div class="date-part bgc1">
+                                    <span class="month">June</span>
+                                    <div class="date">20</div>
+                                </div>
+                                <div class="content-part">
+                                    <div class="categorie">
+                                        <a href="#">Math</a> & <a href="#">English</a>
+                                    </div>
+                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
+                                </div>
+                            </div>
+                            <div class="events-short mb-28">
+                                <div class="date-part bgc2">
+                                    <span class="month">June</span>
+                                    <div class="date">21</div>
+                                </div>
+                                <div class="content-part">
+                                    <div class="categorie">
+                                        <a href="#">Math</a> & <a href="#">English</a>
+                                    </div>
+                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
+                                </div>
+                            </div>
+                            <div class="events-short mb-28">
+                                <div class="date-part bgc3">
+                                    <span class="month">June</span>
+                                    <div class="date">22</div>
+                                </div>
+                                <div class="content-part">
+                                    <div class="categorie">
+                                        <a href="#">Math</a> & <a href="#">English</a>
+                                    </div>
+                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
+                                </div>
+                            </div>
+                            <div class="events-short">
+                                <div class="date-part bgc4">
+                                    <span class="month">June</span>
+                                    <div class="date">23</div>
+                                </div>
+                                <div class="content-part">
+                                    <div class="categorie">
+                                        <a href="#">Math</a> & <a href="#">English</a>
+                                    </div>
+                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div> 
+                </div>
             </div>
-            <!-- Video Section End -->
+            <!-- Blog Section End -->
 
+            <!-- Newsletter section start -->
+            <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
+                <div class="container">
+                    <div class="newsletter-wrap">
+                        <div class="row y-middle">
+                            <div class="col-lg-6 col-md-12 md-mb-30">
+                               <div class="content-part">
+                                   <div class="sec-title">
+                                       <div class="title-icon md-mb-15">
+                                           <img src="assets/images/newsletter.png" alt="images">
+                                       </div>
+                                       <h2 class="title mb-0 white-color">Subscribe to Newsletter</h2>
+                                   </div>
+                               </div>
+                            </div>
+                            <div class="col-lg-6 col-md-12">
+                                <form class="newsletter-form">
+                                    <input type="email" name="email" placeholder="Enter Your Email" required="">
+                                    <button type="submit">Submit</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Newsletter section end -->
         </div> 
-        <!-- Main content End -->
-     
-        <?php include 'includes/footer.php';?>
+        <!-- Main content End --> 
+
+        <?php include("includes/footer.php"); ?>
