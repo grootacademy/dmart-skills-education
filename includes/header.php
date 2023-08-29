@@ -166,7 +166,7 @@
                                                 <ul class="sub-menu">
                                                     <li><a href="course-porgramming-languages.php">porgramming Languages</a>
                                                     <ul class="sub-menu right">
-                                                                <li><a href="course-c-and-cprogramming.php">C and C++ Programming</a></li>
+                                                                <li><a href="course-c-and-cpp-programming.php">C and C++ Programming</a></li>
                                                                 <li><a href="course-core-java.php">Java</a></li>
                                                                 <li><a href="course-python-programming.php">Python</a></li>
                                                                 <li><a href="course-data-structure-and-algorithms.php">Data Structure and Algorithms</a></li>
