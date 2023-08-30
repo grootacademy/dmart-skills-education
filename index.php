@@ -431,7 +431,7 @@
                 <div class="col-lg-6 pl-60 md-pl-15">
                     <div class="sec-title3 mb-30">
                         <h2 class=" title new-title margin-0 pb-15">Why Learn Here</h2>
-                        <div class="new-desc">Choose us to embark on a transformative learning journey, where expert guidance and immersive experiences converge for unparalleled skill development.</div>
+                        <div class="new-desc text-align-js">Choose us to embark on a transformative learning journey, where expert guidance and immersive experiences converge for unparalleled skill development.</div>
                     </div>
                     <div class="services-part mb-20">
                         <div class="services-icon">
@@ -439,7 +439,7 @@
                         </div>
                         <div class="services-text">
                             <h2 class="title"> Lower Learning Cost</h2>
-                            <p class="services-txt"> Experience the advantage of cost-effective learning, where high-quality education meets budget-friendly options for your skill enhancement and personal growth.</p>
+                            <p class="services-txt  text-align-js"> Experience the advantage of cost-effective learning, where high-quality education meets budget-friendly options for your skill enhancement and personal growth.</p>
                         </div>
                     </div>
                     <div class="services-part mb-20">
@@ -448,7 +448,7 @@
                         </div>
                         <div class="services-text">
                             <h2 class="title"> Learn With Experts</h2>
-                            <p class="services-txt">Immerse yourself in knowledge with industry experts as your guides, fostering a comprehensive learning experience second to none.</p>
+                            <p class="services-txt  text-align-js">Immerse yourself in knowledge with industry experts as your guides, fostering a comprehensive learning experience second to none.</p>
                         </div>
                     </div>
                     <div class="services-part">
@@ -457,7 +457,7 @@
                         </div>
                         <div class="services-text">
                             <h2 class="title">Different Course Variation</h2>
-                            <p class="services-txt"> Explore a diverse array of course offerings, ensuring you find the perfect path to enhance your skills and achieve your learning goals.</p>
+                            <p class="services-txt  text-align-js"> Explore a diverse array of course offerings, ensuring you find the perfect path to enhance your skills and achieve your learning goals.</p>
                         </div>
                     </div>
                 </div>
@@ -551,7 +551,7 @@
                 <div class="col-lg-6 padding-0 col-md-12">
                     <div class="rs-free-contact">
                         <div class="sec-title3">
-                            <h2 class="title white-color">Register Free Courses</h2>
+                            <h2 class="title white-color">Register Free Demo Classes</h2>
                         </div>
                         <form id="contact-form" method="post" action="https://keenitsolutions.com/products/html/educavo/mailer.php">
                             <div class="row">
@@ -593,69 +593,57 @@
             <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="true" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
                 <div class="testi-item">
                     <div class="item-content-basic">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and
-                            tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum
-                            Company. When it comes to content marketing, you’ll definitely get the 5-star treatment
-                            from the Lorem Ipsum Company.</div>
+                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Teaching is so good. Best institute for coaching. I have taken selenium with a java course, i didn't expect i will learn up to this level. I recommend joining the institute if you are trying to take any course in testing.</div>
                         <div class="testi-content">
                             <div class="img-wrap">
-                                <img src="assets/images/testimonial/home12/1.jpg" alt="">
+                                <img src="assets/images/students/sunil_kumawat.png" alt="">
                             </div>
                             <div class="name">
-                                Junita Mushenko
+                                Sunil Kumawat
                             </div>
-                            <span class="designation">Math Teacher</span>
+                            <span class="designation">Student</span>
                         </div>
                     </div>
                 </div>
                 <div class="testi-item">
                     <div class="item-content-basic">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and
-                            tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum
-                            Company. When it comes to content marketing, you’ll definitely get the 5-star treatment
-                            from the Lorem Ipsum Company.</div>
+                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">I'd say the institute is ideal for new beginners in programming with less or no prior programming knowledge. You will be trained from the ground up and will have the opportunity to thoroughly explore your coding program. Trainers explain each and every concept with real-time examples and help you gain more knowledge with real-time experience. We also get to work on a couple of real-life projects during training under the mentors' guidance. All in all, the learning experience here was great and I'd recommend it to everyone.</div>
                         <div class="testi-content">
                             <div class="img-wrap">
-                                <img src="assets/images/testimonial/home12/2.jpg" alt="">
+                                <img src="assets/images/students/Simmi_Manghwani.png" alt="">
                             </div>
                             <div class="name">
-                                Sonia Akhter
+                            Simmi Manghwani
                             </div>
-                            <span class="designation">Chemisty Teacher</span>
+                            <span class="designation">Student</span>
                         </div>
                     </div>
                 </div>
                 <div class="testi-item">
                     <div class="item-content-basic">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and
-                            tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum
-                            Company. When it comes to content marketing, you’ll definitely get the 5-star treatment
-                            from the Lorem Ipsum Company.</div>
+                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Right now I am taking coaching on Java Full stack web development here.Excellent coaching. Satnam sir has great teaching technique.</div>
                         <div class="testi-content">
                             <div class="img-wrap">
-                                <img src="assets/images/testimonial/home12/3.jpg" alt="">
+                                <img src="assets/images/students/Shubham-saini.png" alt="">
                             </div>
                             <div class="name">
-                                Alex Fernando
+                            Shubham-saini
                             </div>
-                            <span class="designation">English Teacher</span>
+                            <span class="designation">Student</span>
                         </div>
                     </div>
                 </div>
                 <div class="testi-item">
                     <div class="item-content-basic">
-                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Professional, responsive, and able to keep up with ever-changing demand and
-                            tight deadlines: That’s how I would describe Jeramy and his team at The Lorem Ipsum
-                            Company. When it comes to content marketing, you’ll definitely get the 5-star treatment
-                            from the Lorem Ipsum Company.</div>
+                        <div class="desc"><img class="quote" src="assets/images/testimonial/home12/quote.png" alt="">Learning at Dmart Skills education has helped me develop my web development skills. The past year has been remarkable in my professional journey. A big thanks to all my team members for providing such a wonderful learning atmosphere.</div>
                         <div class="testi-content">
                             <div class="img-wrap">
-                                <img src="assets/images/testimonial/home12/4.jpg" alt="">
+                                <img src="assets/images/students/SACHIN_KUMAWAT.png" alt="">
                             </div>
                             <div class="name">
-                                Tamim Ikbal
+                            SACHIN KUMAWAT
                             </div>
-                            <span class="designation">Head Teacher</span>
+                            <span class="designation">Student</span>
                         </div>
                     </div>
                 </div>
@@ -1037,32 +1025,7 @@
                         -->
     <!-- Blog Section End -->
                       
-    <!-- Newsletter section start -->
-    <div class="rs-newsletter style1 green-color mb--90 sm-mb-0 sm-pb-70">
-        <div class="container">
-            <div class="newsletter-wrap">
-                <div class="row y-middle">
-                    <div class="col-lg-6 col-md-12 md-mb-30">
-                        <div class="content-part">
-                            <div class="sec-title">
-                                <div class="title-icon md-mb-15">
-                                    <img src="assets/images/white-newsletter3.png" alt="images">
-                                </div>
-                                <h2 class="title mb-0 white-color">Subscribe to Newsletter</h2>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <form class="newsletter-form">
-                            <input type="email" name="email" placeholder="Enter Your Email" required="">
-                            <button type="submit">Submit</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Newsletter section end -->
+  
 </div>
 <!-- Main content End -->
 

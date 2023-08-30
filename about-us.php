@@ -32,7 +32,7 @@
 					<div class="sec-title">
 						<div class="sub-title orange">Welcome to Dmart Skill Education - Where Knowledge Meets Excellence</div>
 						<h2 class="title mb-17">Our Story</h2>
-						<div class="bold-text mb-22" style="text-align: justify;">With a legacy of 15 years in the education industry, Dmart Skill Education stands as a testament to unwavering commitment, innovation, and transformative learning experiences. From our humble beginnings to becoming a leading IT training institute in Jaipur, our journey has been defined by a passion for empowering individuals to excel in the ever-evolving world of technology.</div>
+						<div class="bold-text mb-22 text-align-js">With a legacy of 15 years in the education industry, Dmart Skill Education stands as a testament to unwavering commitment, innovation, and transformative learning experiences. From our humble beginnings to becoming a leading IT training institute in Jaipur, our journey has been defined by a passion for empowering individuals to excel in the ever-evolving world of technology.</div>
 
 					</div>
 				</div>
@@ -57,7 +57,7 @@
 					<div class="col-lg-6 pl-62 pt-134 pb-150 md-pt-50 md-pb-50 md-pl-15">
 						<div class="sec-title mb-40 md-mb-20">
 							<h2 class="title mb-16">Our Mission:</h2>
-							<div class="desc">At Dmart Skill Education, our mission is to bridge the gap between ambition and achievement. We believe that education is not just about imparting knowledge; it's about nurturing potential, fostering creativity, and nurturing the skills needed to thrive in a dynamic global landscape.</div>
+							<div class="desc text-align-js">At Dmart Skill Education, our mission is to bridge the gap between ambition and achievement. We believe that education is not just about imparting knowledge; it's about nurturing potential, fostering creativity, and nurturing the skills needed to thrive in a dynamic global landscape.</div>
 						</div>
 						<div class="btn-part">
 							<a class="readon2 orange" href="#">Apply Now</a>
@@ -137,7 +137,7 @@
 						<div class="tab-pane tab fade show active" id="about-history" role="tabpanel" aria-labelledby="about-history-tab">
 							<div class="sec-title mb-25">
 								<h2 class="title">Founding Years:</h2>
-								<div class="desc">Dmart Skill Education was established with a vision to bridge the gap between education and industry demands. In our early years, we recognized the need for practical, hands-on learning experiences that prepare individuals for the dynamic world of technology. With this vision in mind, we embarked on a path of creating a learning environment that fosters creativity, critical thinking, and skill development.</div>
+								<div class="desc text-align-js">Dmart Skill Education was established with a vision to bridge the gap between education and industry demands. In our early years, we recognized the need for practical, hands-on learning experiences that prepare individuals for the dynamic world of technology. With this vision in mind, we embarked on a path of creating a learning environment that fosters creativity, critical thinking, and skill development.</div>
 							</div>
 							<div class="tab-img">
 								<img class="" src="assets/images/about/tab1.jpg" alt="Tab Image">
@@ -146,7 +146,7 @@
 						<div class="tab-pane fade" id="about-mission" role="tabpanel" aria-labelledby="about-mission-tab">
 							<div class="sec-title mb-25">
 								<h2 class="title">A Growing Legacy</h2>
-								<div class="desc">As the years passed, our commitment to excellence remained unwavering. Our team of dedicated professionals worked tirelessly to refine our curriculum, enhance our teaching methodologies, and embrace emerging technologies. This dedication translated into a reputation for producing skilled individuals who are not just job-ready, but who also possess the ability to drive innovation and transformation.</div>
+								<div class="desc text-align-js">As the years passed, our commitment to excellence remained unwavering. Our team of dedicated professionals worked tirelessly to refine our curriculum, enhance our teaching methodologies, and embrace emerging technologies. This dedication translated into a reputation for producing skilled individuals who are not just job-ready, but who also possess the ability to drive innovation and transformation.</div>
 							</div>
 							<div class="tab-img">
 								<img class="" src="assets/images/about/tab2.jpg" alt="Tab Image">
@@ -155,7 +155,7 @@
 						<div class="tab-pane fade" id="about-admin" role="tabpanel" aria-labelledby="about-admin-tab">
 							<div class="sec-title mb-25">
 								<h2 class="title">Embracing Change</h2>
-								<div class="desc">The ever-changing landscape of technology demands adaptability and agility. We recognized the significance of staying current and relevant. This led us to continuously update our courses to encompass the latest advancements, ensuring that our learners are equipped with the knowledge and skills that make them stand out in the industry.</div>
+								<div class="desc text-align-js">The ever-changing landscape of technology demands adaptability and agility. We recognized the significance of staying current and relevant. This led us to continuously update our courses to encompass the latest advancements, ensuring that our learners are equipped with the knowledge and skills that make them stand out in the industry.</div>
 							</div>
 							<div class="tab-img">
 								<img class="" src="assets/images/about/tab3.jpg" alt="Tab Image">
@@ -614,33 +614,6 @@
 		</div>
 	</div>
 	<!-- Partner End -->
-
-	<!-- Newsletter section start -->
-	<div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
-		<div class="container">
-			<div class="newsletter-wrap">
-				<div class="row y-middle">
-					<div class="col-lg-6 col-md-12 md-mb-30">
-						<div class="content-part">
-							<div class="sec-title">
-								<div class="title-icon md-mb-15">
-									<img src="assets/images/newsletter.png" alt="images">
-								</div>
-								<h2 class="title mb-0 white-color">Subscribe to Newsletter</h2>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-6 col-md-12">
-						<form class="newsletter-form">
-							<input type="email" name="email" placeholder="Enter Your Email" required="">
-							<button type="submit">Submit</button>
-						</form>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- Newsletter section end -->
 </div>
 <!-- Main content End -->
 <?php include("includes/footer.php"); ?>
