@@ -246,7 +246,7 @@
 				</div>
 				<div class="col-lg-4 col-sm-6 mb-30">
 					<div class="team-item">
-						<img src="assets/images/team/jatin_sir.jpg" alt="">
+						<img src="assets/images/team/jatin-goyal-sir.jpg" alt="">
 						<div class="content-part">
 							<h4 class="name"><a href="team-single.html">Jitin Goyal</a></h4>
 							<span class="designation">Software Architect</span>
