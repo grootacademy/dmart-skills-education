@@ -15186,3 +15186,6 @@ body .modal-backdrop {
     transform: scale(1.2);
   }
 }
+.text-align-js{
+  text-align: justify;
+}

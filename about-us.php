@@ -331,35 +331,37 @@
 						<div class="col-lg-5 pr-90 md-pr-15 md-mb-30">
 							<div class="donation-part">
 								<img src="assets/images/donor/1.jpg" alt="">
-								<h3 class="title mb-10">Donation helps us</h3>
-								<div class="desc mb-38">Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed eius to mod tempors incididunt ut labore et dolore magna this aliqua  enims ad minim.</div>
+								<h4 class="title mb-10">"Your Donations Make a Difference"</h4>
+								<div class="desc mb-38 text-align-js">At Dmart Skill Education, we believe in the power of education to transform lives. Your generous donations directly contribute to providing quality education, innovative learning experiences, and skill enhancement opportunities to individuals from diverse backgrounds. With your support, we can continue to nurture talent, foster creativity, and empower individuals to excel in the world of technology. Your contributions are an investment in a brighter future for learners and our community as a whole. Join us in making a positive impact through education.</div>
 								<div class="btn-part">
 										<a class="readon2 orange" href="#">Become a donor</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-7 lg-pl-0 ml--15 md-ml-0">
+						<h4>Our Mentors and Supporters</h4>
 							<div class="testi-wrap mb-50">
 								<div class="img-part">
-									<img src="assets/images/testimonial/style2/1.jpg" alt="">
+									<img src="assets/images/our-supporter/Proffesor-Ranjan-Arora.jpg" alt="">
 								</div>
 								<div class="content-part new-content pt-12">
-									<div class="desc">Education is the passport to the future for tomorrow belongs to those who prepare for it today</div>
+									
+									<div class="desc text-align-js">Supporting Dmart Skill Education has been a rewarding experience. Seeing the impact of our contribution in shaping young minds and empowering them with valuable skills fills us with pride. We're confident that our investment in education will pave the way for a brighter future.</div>
 									<div class="info">
-										<h5 class="name">Mahadi mansura</h5>
-										<div class="designation">Head Teacher</div>
+										<h5 class="name">Rajan Arora</h5>
+										<div class="designation">Professor @ IIT, Roorkee</div>
 									</div>
 								</div>
 							</div>
 							<div class="testi-wrap">
 								<div class="img-part">
-									<img src="assets/images/testimonial/style2/2.jpg" alt="">
+									<img src="assets/images/our-supporter/R._Balasubramanian.jpg" alt="">
 								</div>
 								<div class="content-part new-content pt-12">
-									<div class="desc">Education is the passport to the future for tomorrow belongs to those who prepare for it today</div>
+									<div class="desc">Being a part of Dmart Skill Education's journey as a donor has been truly fulfilling. The institute's commitment to providing quality education and fostering innovation aligns perfectly with our philanthropic goals. It's heartening to witness the positive changes our support brings to the lives of learners.</div>
 									<div class="info">
-										<h5 class="name">Jonathon Lary</h5>
-										<div class="designation">Math Teacher</div>
+										<h5 class="name">R. Balasubramanian</h5>
+										<div class="designation">Professor  @ IIT, Roorkee</div>
 									</div>
 								</div>
 							</div>
