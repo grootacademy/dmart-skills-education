@@ -452,7 +452,8 @@
 								</ul>
 							</div>
 						</div>
-						<div class="col-md-8">I highly recommend this agency for all your online media strategies and web designs. They are a group of hard-working, enthusiastic and motivated people with a lovely attitude. The vibe you get from them is amazing and it was so much fun collaborating with them.The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
+						<div class="col-md-8">
+							<div class="desc">I highly recommend this agency for all your online media strategies and web designs. They are a group of hard-working, enthusiastic and motivated people with a lovely attitude. The vibe you get from them is amazing and it was so much fun collaborating with them.The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
 						</div>
 					</div>
 				</div>
@@ -495,7 +496,7 @@
 						</div>
 						<div class="col-md-8">
 							<div class="desc">The internal workings of the program, and memory allocation-information that I don't believe we could discover in any fast-track or online training. The classes involve a lot of interaction
-</div>
+							</div>
 						</div>
 					</div>
 				</div>
