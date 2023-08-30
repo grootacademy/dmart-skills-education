@@ -1,18 +1,18 @@
 <?php 
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$my_db = 'leads';
+// $servername = "localhost";
+// $username = "root";
+// $password = "";
+// $my_db = 'leads';
 
 //hosting
 
 
-//  $servername = "127.0.0.1:3306";
+ $servername = "127.0.0.1:3306";
 
-//  $username = "u232016825_swiggywala";
-//  $password = "HareRam@987";
-//  $my_db = 'u232016825_leads';
+ $username = "u232016825_swiggywala";
+ $password = "HareRam@987";
+ $my_db = 'u232016825_leads';
 // //Create connection
 $conn = new mysqli($servername, $username, $password,$my_db);
 
