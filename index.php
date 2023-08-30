@@ -486,12 +486,12 @@
                 <div class="col-lg-3 col-md-6 sm-mb-30">
                     <div class="counter-item text-center">
                         <h2 class="rs-count plus">120</h2>
-                        <h4 class="title mb-0">Online Instructors</h4>
+                        <h4 class="title mb-0">Offline/Online Instructors</h4>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="counter-item text-center">
-                        <h2 class="rs-count percent">99</h2>
+                        <h2 class="rs-count percent">100</h2>
                         <h4 class="title mb-0">Satisfaction Rate</h4>
                     </div>
                 </div>
@@ -553,23 +553,23 @@
                         <div class="sec-title3">
                             <h2 class="title white-color">Register Free Demo Classes</h2>
                         </div>
-                        <form id="contact-form" method="post" action="https://keenitsolutions.com/products/html/educavo/mailer.php">
+                        <form  method="post" action="./process.php">
                             <div class="row">
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="name" name="name" placeholder="Name" required="">
+                                    <input class="from-control" type="text" id="name" name="name" required placeholder="Name" >
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="email" name="email" placeholder="Email" required="">
+                                    <input class="from-control" type="text" id="email" name="email" placeholder="Email" required >
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone" required="">
+                                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone" required>
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="subject" name="subject" placeholder="Subject" required="">
+                                    <input class="from-control" type="text" id="subject" name="courseName" placeholder="Course Name" required>
                                 </div>
 
                                 <div class="col-lg-12 mb-35">
-                                    <textarea class="from-control" id="message" name="message" placeholder=" Message" required=""></textarea>
+                                    <textarea class="from-control" id="message" name="message" placeholder=" Message" ></textarea>
                                 </div>
                             </div>
                             <div class="form-btn">

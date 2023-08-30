@@ -144,7 +144,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-8 text-right">
+                        <div class="col-lg-10 text-right">
                             <div class="rs-menu-area">
                                 <div class="main-menu">
                                     <div class="mobile-menu">
@@ -225,8 +225,8 @@
 
                                                 </ul>
                                             </li>
-
-                                            <li class="menu-item-has-children">
+                                            <!-- pages menu section commneted -->
+                                            <!-- <li class="menu-item-has-children">
                                                 <a href="#">Pages</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item-has-children right">
@@ -272,9 +272,11 @@
                                                         </ul>
                                                     </li>
                                                 </ul>
-                                            </li>
+                                            </li> -->
+                                            <!-- pages menu section commneted -->
 
-                                            <li class="menu-item-has-children">
+                                            <!-- blog menu section commneted -->
+                                            <!-- <li class="menu-item-has-children">
                                                 <a href="#">Blog</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="blog.html">Blog</a></li>
@@ -295,77 +297,14 @@
                                                         </ul>
                                                     </li>
                                                 </ul>
-                                            </li>
-
+                                            </li> -->
+                                            <!-- blog menu section commneted -->
                                             <li class="menu-item-has-children">
-                                                <a href="#">Contact</a>
-                                                <ul class="sub-menu">
-                                                    <li><a href="contact.html">Contact One</a> </li>
-                                                    <li><a href="contact2.html">Contact Two</a> </li>
-                                                    <li><a href="contact3.html">Contact Three</a> </li>
-                                                    <li><a href="contact4.html">Contact Four</a> </li>
-                                                </ul>
+                                                <a href="contact-us.php">Contact Us</a>
                                             </li>
                                         </ul> <!-- //.nav-menu -->
                                     </nav>
                                 </div> <!-- //.main-menu -->
-                            </div>
-                        </div>
-                        <div class="col-lg-2 text-right">
-                            <div class="expand-btn-inner">
-                                <ul>
-                                    <li>
-                                        <a class="hidden-xs rs-search" data-target=".search-modal" data-toggle="modal" href="#">
-                                            <i class="flaticon-search"></i>
-                                        </a>
-                                    </li>
-                                    <li class="icon-bar cart-inner no-border mini-cart-active">
-                                        <a class="cart-icon">
-                                            <!-- <span class="cart-count">2</span> -->
-                                            <i class="fa fa-shopping-bag"></i>
-                                        </a>
-                                        <div class="woocommerce-mini-cart text-left">
-                                            <div class="cart-bottom-part">
-                                                <ul class="cart-icon-product-list">
-                                                    <li class="display-flex">
-                                                        <div class="icon-cart">
-                                                            <a href="#"><i class="fa fa-times"></i></a>
-                                                        </div>
-                                                        <div class="product-info">
-                                                            <a href="cart.html">Law Book</a><br>
-                                                            <span class="quantity">1 × $30.00</span>
-                                                        </div>
-                                                        <div class="product-image">
-                                                            <a href="cart.html"><img src="assets/images/shop/1.jpg" alt="Product Image"></a>
-                                                        </div>
-                                                    </li>
-                                                    <li class="display-flex">
-                                                        <div class="icon-cart">
-                                                            <a href="#"><i class="fa fa-times"></i></a>
-                                                        </div>
-                                                        <div class="product-info">
-                                                            <a href="cart.html">Spirit Level</a><br>
-                                                            <span class="quantity">1 × $30.00</span>
-                                                        </div>
-                                                        <div class="product-image">
-                                                            <a href="cart.html"><img src="assets/images/shop/2.jpg" alt="Product Image"></a>
-                                                        </div>
-                                                    </li>
-                                                </ul>
-
-                                                <div class="total-price text-center">
-                                                    <span class="subtotal">Subtotal:</span>
-                                                    <span class="current-price">$85.00</span>
-                                                </div>
-
-                                                <div class="cart-btn text-center">
-                                                    <a class="crt-btn btn1" href="cart.html">View Cart</a>
-                                                    <a class="crt-btn btn2" href="checkout.html">Check Out</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </li>
-                                </ul>
                             </div>
                         </div>
                     </div>
