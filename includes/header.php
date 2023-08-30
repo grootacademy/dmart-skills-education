@@ -165,30 +165,30 @@
                                                 <a href="courses.php">Courses</a>
                                                 <ul class="sub-menu">
                                                     <li><a href="course-porgramming-languages.php">porgramming Languages</a>
-                                                    <ul class="sub-menu right">
-                                                                <li><a href="course-c-and-cpp-programming.php">C and C++ Programming</a></li>
-                                                                <li><a href="course-core-java.php">Java</a></li>
-                                                                <li><a href="course-python-programming.php">Python</a></li>
-                                                                <li><a href="course-data-structure-and-algorithms.php">Data Structure and Algorithms</a></li>
-                                                            </ul>
-                                                </li>
+                                                        <ul class="sub-menu right">
+                                                            <li><a href="course-c-and-cpp-programming.php">C and C++ Programming</a></li>
+                                                            <li><a href="course-core-java.php">Java</a></li>
+                                                            <li><a href="course-python-programming.php">Python</a></li>
+                                                            <li><a href="course-data-structure-and-algorithms.php">Data Structure and Algorithms</a></li>
+                                                        </ul>
+                                                    </li>
                                                     <li><a href="course-java-courses.php">Java Courses</a>
-                                                            <ul class="sub-menu right">
-                                                                <li><a href="course-core-java.php">Core Java</a></li>
-                                                                <li><a href="course-advance-java.php">Advance Java (Servlet & JSP)</a></li>
-                                                                <li><a href="course-spring-and-hibernate.php">Java Framworks(Spring & Hibernate)</a></li>
-                                                                <li><a href="course-moicro-services-architecture-with-java.php">MicroServics architecture with Java</a></li>
-                                                            </ul>
-                                                        </li>
+                                                        <ul class="sub-menu right">
+                                                            <li><a href="course-core-java.php">Core Java</a></li>
+                                                            <li><a href="course-advance-java.php">Advance Java (Servlet & JSP)</a></li>
+                                                            <li><a href="course-spring-and-hibernate.php">Java Framworks(Spring & Hibernate)</a></li>
+                                                            <li><a href="course-moicro-services-architecture-with-java.php">MicroServics architecture with Java</a></li>
+                                                        </ul>
+                                                    </li>
                                                     <li><a href="carear-option-with-python-programmin.php">Python</a>
-                                                    <ul class="sub-menu right">
+                                                        <ul class="sub-menu right">
                                                             <li><a href="course-python-programming.php"> Python Programming</a></li>
                                                             <li><a href="course-advance-java-script.php">Data Analyst</a></li>
                                                             <li><a href="course-frontend-development-reactjs.php">Data Science</a></li>
                                                             <li><a href="course-bakcend-developemnt-with-nodejs.php">Machine Learning</a></li>
                                                             <li><a href="course-front-end-developemnt-angularjs.php">Artificial Intelligence</a></li>
                                                         </ul>
-                                                </li>
+                                                    </li>
                                                     <li><a href="course-web-desining.php">Web Desinging</a></li>
                                                     <li><a href="carear-option-with-javascript.php">Master Java Script Development</a>
                                                         <ul class="sub-menu right">
@@ -372,3 +372,55 @@
                 </div>
             </div>
             <!-- Menu End -->
+            <!-- Canvas Menu start -->
+            <nav class="right_menu_togle hidden-md">
+                <div class="close-btn">
+                    <div id="nav-close">
+                        <div class="line">
+                            <span class="line1"></span><span class="line2"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="canvas-logo">
+                    <a href="index-2.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
+                </div>
+                <div class="offcanvas-text">
+                    <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo by the charms of pleasure of the moment data com so blinded by desire.</p>
+                </div>
+                <div class="offcanvas-gallery">
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/1.jpg"><img src="assets/images/gallery/1.jpg" alt=""></a>
+                    </div>
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/2.jpg"><img src="assets/images/gallery/2.jpg" alt=""></a>
+                    </div>
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/3.jpg"><img src="assets/images/gallery/3.jpg" alt=""></a>
+                    </div>
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/4.jpg"><img src="assets/images/gallery/4.jpg" alt=""></a>
+                    </div>
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/5.jpg"><img src="assets/images/gallery/5.jpg" alt=""></a>
+                    </div>
+                    <div class="gallery-img">
+                        <a class="image-popup" href="assets/images/gallery/6.jpg"><img src="assets/images/gallery/6.jpg" alt=""></a>
+                    </div>
+                </div>
+                <div class="map-img">
+                    <img src="assets/images/map.jpg" alt="">
+                </div>
+                <div class="canvas-contact">
+                    <ul class="social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- Canvas Menu end -->
+        </header>
+        <!--Header End-->
+    </div>
+    <!--Full width header End-->

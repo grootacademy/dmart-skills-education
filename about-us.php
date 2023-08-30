@@ -1,147 +1,240 @@
 <?php include('includes/header.php'); ?>
 
-                <!-- Canvas Menu start -->
-                <nav class="right_menu_togle hidden-md">
-                    <div class="close-btn">
-                        <div id="nav-close">
-                            <div class="line">
-                                <span class="line1"></span><span class="line2"></span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="canvas-logo">
-                        <a href="index-2.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
-                    </div>
-                    <div class="offcanvas-text">
-                        <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo  by the charms of pleasure of the moment data com so blinded by desire.</p>
-                    </div>
-                    <div class="offcanvas-gallery">
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/1.jpg"><img src="assets/images/gallery/1.jpg" alt=""></a>
-                        </div>
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/2.jpg"><img src="assets/images/gallery/2.jpg" alt=""></a>
-                        </div>
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/3.jpg"><img src="assets/images/gallery/3.jpg" alt=""></a>
-                        </div>
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/4.jpg"><img src="assets/images/gallery/4.jpg" alt=""></a>
-                        </div>
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/5.jpg"><img src="assets/images/gallery/5.jpg" alt=""></a>
-                        </div>
-                        <div class="gallery-img">
-                            <a class="image-popup" href="assets/images/gallery/6.jpg"><img src="assets/images/gallery/6.jpg" alt=""></a>
-                        </div>
-                    </div>
-                    <div class="map-img">
-                        <img src="assets/images/map.jpg" alt="">
-                    </div>
-                    <div class="canvas-contact">
-                        <ul class="social">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                        </ul>
-                    </div>
-                </nav>
-                <!-- Canvas Menu end -->
-            </header>
-            <!--Header End-->
-        </div>
-        <!--Full width header End-->
-
 		<!-- Main content Start -->
-        <div class="main-content">
-            <!-- Breadcrumbs Start -->
-            <div class="rs-breadcrumbs breadcrumbs-overlay">
-                <div class="breadcrumbs-img">
-                    <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
-                </div>
-                <div class="breadcrumbs-text white-color">
-                    <h1 class="page-title">About Us</h1>
-                    <ul>
-                        <li>
-                            <a class="active" href="index-2.html">Home</a>
-                        </li>
-                        <li>About Us</li>
-                    </ul>
-                </div>
-            </div>
-            <!-- Breadcrumbs End -->
+		<div class="main-content">
+			<!-- Breadcrumbs Start -->
+			<div class="rs-breadcrumbs breadcrumbs-overlay">
+					<div class="breadcrumbs-img">
+							<img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
+					</div>
+					<div class="breadcrumbs-text white-color">
+							<h1 class="page-title">About Us</h1>
+							<ul>
+								<li>
+									<a class="active" href="index.php">Home</a>
+								</li>
+								<li>About Us</li>
+							</ul>
+					</div>
+			</div>
+			<!-- Breadcrumbs End -->
 
-            <!-- Counter Section Start -->
-            <div id="rs-about" class="rs-about style3 pt-100 md-pt-70">
-                <div class="container">
-                    <div class="row y-middle">
-                        <div class="col-lg-4 lg-pr-0 md-mb-30">
-                            <div class="about-intro">
-                                <div class="sec-title">
-                                    <div class="sub-title orange">About Us</div>
-                                    <h2 class="title mb-21">The End Result of All True Learning</h2>
-                                    <div class="desc big">The key to success is to appreciate how people learn, understand the thought process that goes into instructional design, what works well, and a range of differen</div>
+			<!-- About Section Start -->
+			<div id="rs-about" class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 order-last padding-0 md-pl-15 md-pr-15 md-mb-30">
+							<div class="img-part">
+								<img class="" src="assets/images/about/about2orange.png" alt="About Image">
+							</div>
+						</div>
+						<div class="col-lg-6 pr-70 md-pr-15">
+							<div class="sec-title">
+								<div class="sub-title orange">Welcome to Dmart Skill Education - Where Knowledge Meets Excellence</div>
+								<h2 class="title mb-17">Our Story</h2>
+								<div class="bold-text mb-22" style="text-align: justify;">With a legacy of 15 years in the education industry, Dmart Skill Education stands as a testament to unwavering commitment, innovation, and transformative learning experiences. From our humble beginnings to becoming a leading IT training institute in Jaipur, our journey has been defined by a passion for empowering individuals to excel in the ever-evolving world of technology.</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- About Section End -->
+
+			<!-- CTA Section Start -->
+			<div class="rs-cta style2">
+				<div class="partition-bg-wrap inner-page">
+					<div class="container">
+						<div class="row y-bottom">
+							<div class="col-lg-6 pb-50 md-pt-70 md-pb-70">
+								<div class="video-wrap">
+									<a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
+											<i class="fa fa-play"></i>
+											<h4 class="title mb-0">Take a Video  Tour at Educavo</h4>
+										</a>
+								</div>
+							</div>
+							<div class="col-lg-6 pl-62 pt-134 pb-150 md-pt-50 md-pb-50 md-pl-15">
+								<div class="sec-title mb-40 md-mb-20">
+										<h2 class="title mb-16">Our Mission:</h2>
+										<div class="desc">At Dmart Skill Education, our mission is to bridge the gap between ambition and achievement. We believe that education is not just about imparting knowledge; it's about nurturing potential, fostering creativity, and nurturing the skills needed to thrive in a dynamic global landscape.</div>
+								</div>
+								<div class="btn-part">
+										<a class="readon2 orange" href="#">Apply Now</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- CTA Section End -->
+
+			<!-- Counter Section Start -->
+			<div id="rs-counter" class="rs-counter style2-about pt-100 md-pt-70">
+				<div class="container">
+					<div class="row couter-area">
+						<div class="col-md-4 sm-mb-30">
+							<div class="counter-item text-center">
+								<div class="counter-bg">
+									<img src="assets/images/counter/bg1.png" alt="Counter Image">
+								</div>
+								<div class="counter-text">
+									<h2 class="rs-count kplus">2</h2>
+									<h4 class="title mb-0">Students</h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4 sm-mb-30">
+							<div class="counter-item text-center">
+								<div class="counter-bg">
+									<img src="assets/images/counter/bg2.png" alt="Counter Image">
+								</div>
+								<div class="counter-text">
+									<h2 class="rs-count">3.50</h2>
+									<h4 class="title mb-0">Average CGPA</h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-4">
+							<div class="counter-item text-center">
+								<div class="counter-bg">
+									<img src="assets/images/counter/bg3.png" alt="Counter Image">
+								</div>
+								<div class="counter-text">
+									<h2 class="rs-count percent">95</h2>
+									<h4 class="title mb-0">Graduates</h4>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Counter Section End -->
+
+			<!-- About Section Start -->
+			<div class="rs-about style1 pt-100 pb-100 md-pt-70 md-pb-70">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-6 padding-0 md-pl-15 md-pr-15 md-mb-30">
+							<div class="img-part">
+								<img class="" src="assets/images/about/history.png" alt="About Image">
+							</div>
+                            <ul class="nav nav-tabs histort-part" id="myTab" role="tablist">
+                                <li class="nav-item tab-btns single-history">
+                                    <a class="nav-link tab-btn active" id="about-history-tab" data-toggle="tab" href="#about-history" role="tab" aria-controls="about-history" aria-selected="true"><span class="icon-part"><i class="flaticon-banknote"></i></span>Founding Years</a>
+                                </li>
+                                <li class="nav-item tab-btns single-history">
+                                    <a class="nav-link tab-btn" id="about-mission-tab" data-toggle="tab" href="#about-mission" role="tab" aria-controls="about-mission" aria-selected="false"><span class="icon-part"><i class="flaticon-flower"></i></span>A Growing Legacy</a>
+                                </li>
+                                <li class="nav-item tab-btns single-history last-item">
+                                    <a class="nav-link tab-btn" id="about-admin-tab" data-toggle="tab" href="#about-admin" role="tab" aria-controls="about-admin" aria-selected="false"><span class="icon-part"><i class="flaticon-analysis"></i></span>Embracing Change</a>
+                                </li>
+                            </ul>
+						</div>
+						<div class="offset-lg-1"></div>
+						<div class="col-lg-5">
+							<div class="tab-content tabs-content" id="myTabContent">
+                                <div class="tab-pane tab fade show active" id="about-history" role="tabpanel" aria-labelledby="about-history-tab">
+                                    <div class="sec-title mb-25">
+                                        <h2 class="title">Founding Years:</h2>
+                                        <div class="desc">Dmart Skill Education was established with a vision to bridge the gap between education and industry demands. In our early years, we recognized the need for practical, hands-on learning experiences that prepare individuals for the dynamic world of technology. With this vision in mind, we embarked on a path of creating a learning environment that fosters creativity, critical thinking, and skill development.</div>
+                                    </div>
+                                    <div class="tab-img">
+                                        <img class="" src="assets/images/about/tab1.jpg" alt="Tab Image">
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="about-mission" role="tabpanel" aria-labelledby="about-mission-tab">
+                                    <div class="sec-title mb-25">
+                                        <h2 class="title">A Growing Legacy</h2>
+                                        <div class="desc">As the years passed, our commitment to excellence remained unwavering. Our team of dedicated professionals worked tirelessly to refine our curriculum, enhance our teaching methodologies, and embrace emerging technologies. This dedication translated into a reputation for producing skilled individuals who are not just job-ready, but who also possess the ability to drive innovation and transformation.</div>
+                                    </div>
+                                    <div class="tab-img">
+                                        <img class="" src="assets/images/about/tab2.jpg" alt="Tab Image">
+                                    </div>
+                                </div>
+                                <div class="tab-pane fade" id="about-admin" role="tabpanel" aria-labelledby="about-admin-tab">
+                                    <div class="sec-title mb-25">
+                                        <h2 class="title">Embracing Change</h2>
+                                        <div class="desc">The ever-changing landscape of technology demands adaptability and agility. We recognized the significance of staying current and relevant. This led us to continuously update our courses to encompass the latest advancements, ensuring that our learners are equipped with the knowledge and skills that make them stand out in the industry.</div>
+                                    </div>
+                                    <div class="tab-img">
+                                        <img class="" src="assets/images/about/tab3.jpg" alt="Tab Image">
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-lg-8 pl-83 md-pl-15">
-                            <div class="row rs-counter couter-area">
-                                <div class="col-md-4 sm-mb-30">
-                                    <div class="counter-item one">
-                                        <img class="count-img" src="assets/images/about/style3/icons/1.png" alt="">
-                                        <h2 class="number rs-count kplus">2</h2>
-                                        <h4 class="title mb-0">Students</h4>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 sm-mb-30">
-                                    <div class="counter-item two">
-                                        <img class="count-img" src="assets/images/about/style3/icons/2.png" alt="">
-                                        <h2 class="number rs-count">3.50</h2>
-                                        <h4 class="title mb-0">Average CGPA</h4>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="counter-item three">
-                                        <img class="count-img" src="assets/images/about/style3/icons/3.png" alt="">
-                                        <h2 class="number rs-count percent">95</h2>
-                                        <h4 class="title mb-0">Graduates</h4>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+						</div>
+					</div>
+                    <!-- Intro Info Tabs-->
+                    <div class="intro-info-tabs">
+                        
                     </div>
-                </div>
-            </div>
-            <!-- Counter Section End -->
+				</div>
+			</div>
+			<!-- About Section End -->
 
-            <!-- About Section Start -->
-            <div id="rs-about-video" class="rs-about-video pt-100 pb-100 md-pt-70 md-pb-70">
-                <div class="container">
-                    <div class="video-img-part media-icon orange-color2">
-                        <img src="assets/images/about/about-video-bg-orange.png" alt="Video Bg Image">
-                        <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
-                            <i class="fa fa-play"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <!-- About Section End -->
-
-            <!-- Team Section Start -->
-            <div id="rs-team" class="rs-team style1 inner-style orange-color pt-94 pb-100 md-pt-64 md-pb-70 gray-bg">
+			<!-- Team Section Start -->
+			<!-- <div id="rs-team" class="rs-team style1 orange-color pt-94 pb-100 md-pt-64 md-pb-70 gray-bg">
+				<div class="container">
+					<div class="sec-title mb-50 md-mb-30">
+							<div class="sub-title orange">Instructor</div>
+							<h2 class="title mb-0">Expert Teachers</h2>
+					</div>
+					<div class="rs-carousel owl-carousel nav-style2 orange-color" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="true" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="true" data-md-device-dots="false">
+						<div class="team-item">
+							<img src="assets/images/team/1.jpg" alt="">
+							<div class="content-part">
+								<h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+								<span class="designation">Professor</span>
+								<ul class="social-links">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="team-item">
+							<img src="assets/images/team/2.jpg" alt="">
+							<div class="content-part">
+								<h4 class="name"><a href="team-single.html">Jesika Albenian</a></h4>
+								<span class="designation">Professor</span>
+								<ul class="social-links">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="team-item">
+							<img src="assets/images/team/3.jpg" alt="">
+							<div class="content-part">
+								<h4 class="name"><a href="team-single.html">Alex Anthony</a></h4>
+								<span class="designation">Professor</span>
+								<ul class="social-links">
+										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div> -->
+			<div id="rs-team" class="rs-team style1 inner-style orange-color pt-94 pb-100 md-pt-64 md-pb-70 gray-bg">
                 <div class="container">
                     <div class="sec-title mb-50 md-mb-30 text-center">
                         <div class="sub-title orange">Instructor</div>
-                        <h2 class="title mb-0">Expert Teachers</h2>
+                        <h2 class="title mb-0">Expert Teachers & Trainer</h2>
                     </div>
                     <div class="row">
                         <div class="col-lg-4 col-sm-6 mb-30">
                             <div class="team-item">
-                                <img src="assets/images/team/1.jpg" alt="">
+                                <img src="assets/images/team/satnam_sir.jpg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="team-single.html">Satnam Sigh</a></h4>
+                                    <span class="designation">C, C++, Java, J2EE, Spring & Hibernate Trainer</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -153,10 +246,10 @@
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-30">
                             <div class="team-item">
-                                <img src="assets/images/team/2.jpg" alt="">
+                                <img src="assets/images/team/jatin_sir.jpg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="team-single.html">Jitin Goyal</a></h4>
+                                    <span class="designation">Software Architect</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -168,10 +261,10 @@
                         </div>
                         <div class="col-lg-4 col-sm-6 mb-30">
                             <div class="team-item">
-                                <img src="assets/images/team/3.jpg" alt="">
+                                <img src="assets/images/team/mohit_sir.jpg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="#">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="#">Mohit Sharma</a></h4>
+                                    <span class="designation">Spring Boot MicroServics Expert</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -183,10 +276,10 @@
                         </div>
                         <div class="col-lg-4 col-sm-6 md-mb-30">
                             <div class="team-item">
-                                <img src="assets/images/team/2.jpg" alt="">
+                                <img src="assets/images/team/reetu_mam_2.jpg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="team-single.html">Reetu Yadav</a></h4>
+                                    <span class="designation">Frontend Developer</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -198,10 +291,10 @@
                         </div>
                         <div class="col-lg-4 col-sm-6 xs-mb-30">
                             <div class="team-item">
-                                <img src="assets/images/team/3.jpg" alt="">
+                                <img src="assets/images/team/bhawan_mam.jpg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="#">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="#">Bhawana Sharma</a></h4>
+                                    <span class="designation">NodeJS Developer</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -213,10 +306,10 @@
                         </div>
                         <div class="col-lg-4 col-sm-6">
                             <div class="team-item">
-                                <img src="assets/images/team/1.jpg" alt="">
+                                <img src="assets/images/team/shivanshi-paliwal.jpeg" alt="">
                                 <div class="content-part">
-                                    <h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
-                                    <span class="designation">Professor</span>
+                                    <h4 class="name"><a href="team-single.html">Shivanshi Paliwal</a></h4>
+                                    <span class="designation">Software Engineer</span>
                                     <ul class="social-links">
                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -229,335 +322,75 @@
                     </div>
                 </div>
             </div>
-            <!-- Team Section End -->            
+			<!-- Team Section End -->           
 
-            <!-- Testimonial Section Start -->
-            <div class="rs-testimonial style3 orange-color pt-90 md-pt-70">
-                <div class="container">
-                    <div class="sec-title mb-60 md-mb-30 text-center">
-                        <div class="sub-title orange">Student Reviews</div>
-                        <h2 class="title mb-0">What Our Students Says</h2>
-                    </div>
-                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="2" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="true" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="2" data-md-device-nav="false" data-md-device-dots="true">
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/1.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/2.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/3.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/4.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/5.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/6.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/7.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/8.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/9.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testi-item">
-                            <div class="row y-middle no-gutter">
-                                <div class="col-md-4">
-                                    <div class="user-info">
-                                        <img src="assets/images/testimonial/style3/10.png" alt="">
-                                        <h4 class="name">Saiko Najran</h4>
-                                        <span class="designation">Student</span>
-                                        <ul class="ratings">
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                            <li><i class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="col-md-8">
-                                    <div class="desc">The charms of pleasure of the moment so blinded by desire that they cannot foresee the pain and trouble that are bound ensue and equal blame belongs to those who fail in their duty.</div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Testimonial Section End -->
+			<!-- Testimonial Section Start -->
+			<div class="rs-testimonial style2 pt-100 pb-100 md-pt-70 md-pb-70">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-5 pr-90 md-pr-15 md-mb-30">
+							<div class="donation-part">
+								<img src="assets/images/donor/1.jpg" alt="">
+								<h3 class="title mb-10">Donation helps us</h3>
+								<div class="desc mb-38">Lorem ipsum dolor sit amet, consectetur adipisic ing elit, sed eius to mod tempors incididunt ut labore et dolore magna this aliqua  enims ad minim.</div>
+								<div class="btn-part">
+										<a class="readon2 orange" href="#">Become a donor</a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7 lg-pl-0 ml--15 md-ml-0">
+							<div class="testi-wrap mb-50">
+								<div class="img-part">
+									<img src="assets/images/testimonial/style2/1.jpg" alt="">
+								</div>
+								<div class="content-part new-content pt-12">
+									<div class="desc">Education is the passport to the future for tomorrow belongs to those who prepare for it today</div>
+									<div class="info">
+										<h5 class="name">Mahadi mansura</h5>
+										<div class="designation">Head Teacher</div>
+									</div>
+								</div>
+							</div>
+							<div class="testi-wrap">
+								<div class="img-part">
+									<img src="assets/images/testimonial/style2/2.jpg" alt="">
+								</div>
+								<div class="content-part new-content pt-12">
+									<div class="desc">Education is the passport to the future for tomorrow belongs to those who prepare for it today</div>
+									<div class="info">
+										<h5 class="name">Jonathon Lary</h5>
+										<div class="designation">Math Teacher</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- Testimonial Section End -->
 
-            <!-- Blog Section Start -->
-            <div id="rs-blog" class="rs-blog orange-color style1 modify1 pt-85 pb-100 md-pt-70 md-pb-70">
-                <div class="container">
-                    <div class="sec-title mb-60 md-mb-30 text-center">
-                        <div class="sub-title orange">News Update </div>
-                        <h2 class="title mb-0">Latest News & Events</h2>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-7 pr-60 md-pr-15 md-mb-30">
-                            <div class="row no-gutter white-bg blog-item mb-35">
-                                <div class="col-md-6">
-                                    <div class="image-part">
-                                        <a href="#"><img src="assets/images/blog/style3/1.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="blog-content">
-                                        <ul class="blog-meta">
-                                            <li><i class="fa fa-user-o"></i> Admin</li>
-                                            <li><i class="fa fa-calendar"></i>June 15, 2019</li>
-                                        </ul>
-                                        <h3 class="title"><a href="blog-single.html">Modern School The Lovely Valley Team Work</a></h3>
-                                        <div class="btn-part">
-                                            <a class="readon-arrow" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="row no-gutter white-bg blog-item">
-                                <div class="col-md-6 order-last">
-                                    <div class="image-part">
-                                        <a href="#"><img src="assets/images/blog/style3/2.jpg" alt=""></a>
-                                    </div>
-                                </div>
-                                <div class="col-md-6">
-                                    <div class="blog-content">
-                                        <ul class="blog-meta">
-                                            <li><i class="fa fa-user-o"></i> Admin</li>
-                                            <li><i class="fa fa-calendar"></i>June 15, 2019</li>
-                                        </ul>
-                                        <h3 class="title"><a href="blog-single.html">High School Program Starting Soon 2021</a></h3>
-                                        <div class="btn-part">
-                                            <a class="readon-arrow" href="#">Read More</a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5 lg-pl-0">
-                            <div class="events-short mb-28">
-                                <div class="date-part bgc1">
-                                    <span class="month">June</span>
-                                    <div class="date">20</div>
-                                </div>
-                                <div class="content-part">
-                                    <div class="categorie">
-                                        <a href="#">Math</a> & <a href="#">English</a>
-                                    </div>
-                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
-                                </div>
-                            </div>
-                            <div class="events-short mb-28">
-                                <div class="date-part bgc2">
-                                    <span class="month">June</span>
-                                    <div class="date">21</div>
-                                </div>
-                                <div class="content-part">
-                                    <div class="categorie">
-                                        <a href="#">Math</a> & <a href="#">English</a>
-                                    </div>
-                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
-                                </div>
-                            </div>
-                            <div class="events-short mb-28">
-                                <div class="date-part bgc3">
-                                    <span class="month">June</span>
-                                    <div class="date">22</div>
-                                </div>
-                                <div class="content-part">
-                                    <div class="categorie">
-                                        <a href="#">Math</a> & <a href="#">English</a>
-                                    </div>
-                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
-                                </div>
-                            </div>
-                            <div class="events-short">
-                                <div class="date-part bgc4">
-                                    <span class="month">June</span>
-                                    <div class="date">23</div>
-                                </div>
-                                <div class="content-part">
-                                    <div class="categorie">
-                                        <a href="#">Math</a> & <a href="#">English</a>
-                                    </div>
-                                    <h4 class="title mb-0"><a href="blog-single.html">Educational Technology and Mobile Accessories Learning</a></h4>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Blog Section End -->
+			<!-- Partner Start -->
+			<div class="rs-partner pb-100 md-pb-70">
+				<div class="container">
+					<div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="true" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="true" data-md-device-dots="false">
+    						<div class="partner-item">
+    							<a href="#"><img src="assets/images/partner/1.png" alt=""></a>
+    						</div>
+    						<div class="partner-item">
+    							<a href="#"><img src="assets/images/partner/2.png" alt=""></a>
+    						</div>
+    						<div class="partner-item">
+    							<a href="#"><img src="assets/images/partner/3.png" alt=""></a>
+    						</div>
+    						<div class="partner-item">
+    							<a href="#"><img src="assets/images/partner/4.png" alt=""></a>
+    						</div>
+					</div>
+				</div> 
+			</div>
+			<!-- Partner End -->
 
-            <!-- Newsletter section start -->
+			<!-- Newsletter section start -->
             <div class="rs-newsletter style1 orange-color mb--90 sm-mb-0 sm-pb-70">
                 <div class="container">
                     <div class="newsletter-wrap">
@@ -585,5 +418,4 @@
             <!-- Newsletter section end -->
         </div> 
         <!-- Main content End --> 
-
-        <?php include("includes/footer.php"); ?>
+		<?php include("includes/footer.php"); ?>
