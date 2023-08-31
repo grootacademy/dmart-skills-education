@@ -50,7 +50,7 @@
 						<div class="video-wrap">
 							<a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
 								<i class="fa fa-play"></i>
-								<h4 class="title mb-0">Take a Video Tour at Educavo</h4>
+								<h4 class="title mb-0">Take a Video Tour at Dmart Skill Education</h4>
 							</a>
 						</div>
 					</div>
@@ -183,7 +183,7 @@
 						<div class="team-item">
 							<img src="assets/images/team/1.jpg" alt="">
 							<div class="content-part">
-								<h4 class="name"><a href="team-single.html">Jhon Pedrocas</a></h4>
+								<h4 class="name"><a href="#">Jhon Pedrocas</a></h4>
 								<span class="designation">Professor</span>
 								<ul class="social-links">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -196,7 +196,7 @@
 						<div class="team-item">
 							<img src="assets/images/team/2.jpg" alt="">
 							<div class="content-part">
-								<h4 class="name"><a href="team-single.html">Jesika Albenian</a></h4>
+								<h4 class="name"><a href="#">Jesika Albenian</a></h4>
 								<span class="designation">Professor</span>
 								<ul class="social-links">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -209,7 +209,7 @@
 						<div class="team-item">
 							<img src="assets/images/team/3.jpg" alt="">
 							<div class="content-part">
-								<h4 class="name"><a href="team-single.html">Alex Anthony</a></h4>
+								<h4 class="name"><a href="#">Alex Anthony</a></h4>
 								<span class="designation">Professor</span>
 								<ul class="social-links">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -233,7 +233,7 @@
 					<div class="team-item">
 						<img src="assets/images/team/satnam_sir.jpg" alt="">
 						<div class="content-part">
-							<h4 class="name"><a href="team-single.html">Satnam Sigh</a></h4>
+							<h4 class="name"><a href="/team-member-satnam-singh-sir.php">Satnam Singh</a></h4>
 							<span class="designation">C, C++, Java, J2EE, Spring & Hibernate Trainer</span>
 							<ul class="social-links">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -248,7 +248,7 @@
 					<div class="team-item">
 						<img src="assets/images/team/jatin-goyal-sir.jpg" alt="">
 						<div class="content-part">
-							<h4 class="name"><a href="team-single.html">Jitin Goyal</a></h4>
+							<h4 class="name"><a href="#">Jitin Goyal</a></h4>
 							<span class="designation">Software Architect</span>
 							<ul class="social-links">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -278,7 +278,7 @@
 					<div class="team-item">
 						<img src="assets/images/team/reetu_mam_2.jpg" alt="">
 						<div class="content-part">
-							<h4 class="name"><a href="team-single.html">Reetu Yadav</a></h4>
+							<h4 class="name"><a href="#">Reetu Yadav</a></h4>
 							<span class="designation">Frontend Developer</span>
 							<ul class="social-links">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -308,7 +308,7 @@
 					<div class="team-item">
 						<img src="assets/images/team/shivanshi-paliwal.jpeg" alt="">
 						<div class="content-part">
-							<h4 class="name"><a href="team-single.html">Shivanshi Paliwal</a></h4>
+							<h4 class="name"><a href="#">Shivanshi Paliwal</a></h4>
 							<span class="designation">Software Engineer</span>
 							<ul class="social-links">
 								<li><a href="#"><i class="fa fa-facebook"></i></a></li>

@@ -8,7 +8,7 @@
 //hosting
 
 
- $servername = "127.0.0.1:3306";
+ $servername = "31.220.110.201:3306";
 
  $username = "u232016825_swiggywala";
  $password = "HareRam@987";
