@@ -111,7 +111,7 @@
                                 </li>
                                 <li>
                                     <i class="fa flaticon-call"></i>
-                                    <a href="tel:+91 6367742348"> +91 6367742348</a>
+                                    <a href="tel:+91 9649695189"> +91 9649695189</a>
                                 </li>
                             </ul>
                         </div>
