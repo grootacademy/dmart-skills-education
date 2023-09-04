@@ -111,7 +111,7 @@
                                 </li>
                                 <li>
                                     <i class="fa flaticon-call"></i>
-                                    <a href="tel:+91 9649695189"> +91 9649695189</a>
+                                    <a href="tel:+91 8764420489"> +91 8764420489</a>
                                 </li>
                             </ul>
                         </div>
