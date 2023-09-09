@@ -9,7 +9,7 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Master Back-End Development with Node.js and Express.js in Jaipur</h1>
+            <h1 class="page-title">Learn Backend Development with PHP in Jaipur - Expert PHP Training</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
@@ -51,10 +51,10 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Master Back-End Development with Node.js and Express.js in Jaipur</h4>
-                                            <p>Welcome to our Back-End Development Course with Node.js and Express.js in Jaipur, your gateway to becoming a proficient back-end developer right here in the Pink City. Whether you're a coding enthusiast, a tech professional, or a student eager to excel in the world of web development, our comprehensive course is tailored to meet the unique learning needs of Jaipur's vibrant tech community. </p>
-                                            <h4>Course Overview:</h4>
-                                            <p>Our Back-End Development Course with Node.js and Express.js in Jaipur is designed to empower you with the knowledge and skills needed to create robust and scalable web applications. In a city known for its rich heritage and technological progress, we're committed to nurturing a new generation of web development experts. This course covers everything you need to know to build powerful back-end systems.</p>
+                                            <h4>Master Back-End Development with PHP in Jaipur</h4>
+                                            <p>Welcome to our Back-End Development Course with PHP in Jaipur, your gateway to becoming a proficient back-end developer right here in the Pink City. Whether you're a coding enthusiast, a tech professional, or a student eager to excel in the world of web development, our comprehensive course is tailored to meet the unique learning needs of Jaipur's vibrant tech community.</p>
+                                            <h4>Course Overview: </h4>
+                                            <p>Our Back-End Development Course with PHP in Jaipur is designed to empower you with the knowledge and skills needed to create robust and scalable web applications. In a city known for its rich heritage and technological progress, we're committed to nurturing a new generation of web development experts. This course covers everything you need to know to build powerful back-end systems.</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
@@ -62,24 +62,24 @@
                                             </ul>
                                             <h3>What You Will Learn:</h3>
                                             <ul class="review-list">
-                                                <li><b>Introduction to Node.js and Express.js:</b>Begin with a solid foundation in Node.js, a JavaScript runtime, and Express.js, a web application framework for Node.js. </li>
-                                                <li><b>Server-Side JavaScript: </b> Master server-side JavaScript programming to build the back-end logic of web applications.</li>
-                                                <li><b>Routing and Middleware: </b>Learn how to handle routes and middleware to manage HTTP requests and responses effectively.</li>
-                                                <li><b>Database Integration:</b>Understand how to connect to databases such as MongoDB or MySQL and perform data operations.</li>
-                                                <li><b>User Authentication:</b> Implement user authentication and authorization to secure your applications.</li>
-                                                <li><b>API Development:</b> Build RESTful APIs for communication between the front-end and back-end of your web applications.</li>
-                                                <li><b>Error Handling and Debugging: </b>Discover best practices for handling errors and debugging your back-end code. </li>
-                                                <li><b>Testing and Deployment:</b> Explore testing methods and deploy your applications to web servers. </li>
-                                                <li><b>9</b>9</li>
+                                                <li><b>PHP Fundamentals: </b> Begin with a solid foundation in PHP, one of the most versatile server-side scripting languages.</li>
+                                                <li><b>Server-Side Development: </b> Master server-side programming to build the core logic of web applications.</li>
+                                                <li><b>Database Integration: </b> Understand how to connect to databases like MySQL or PostgreSQL and perform data operations.</li>
+                                                <li><b>API Development: </b> Learn to create robust RESTful APIs for communication between front-end and back-end systems.</li>
+                                                <li><b>Security: </b> Implement security measures to protect your applications from threats and vulnerabilities.</li>
+                                                <li><b>Error Handling and Debugging: </b> Discover best practices for handling errors and debugging your back-end code.</li>
+                                                <li><b>Testing and Deployment: </b> Explore testing methods and deploy your applications to web servers.</li>
+                                                <li><b>Frameworks and CMS: </b> Explore popular PHP frameworks and Content Management Systems (CMS).</li>
+                                                <li><b>Security Best Practices: </b> Understand and implement security measures.</li>
                                                 </li>
                                                 </li>
                                             </ul>
                                             <h3>Why Choose Our Back-End Development Course in Jaipur:</h3>
                                             <ul class="review-list">
-                                                <li><b>Local Expertise:</b>Benefit from the insights of experienced web developers with a deep understanding of Jaipur's tech landscape.</li>
-                                                <li><b>Hands-On Learning:</b>Develop practical skills through real-world projects and coding exercises, tailored to Jaipur's tech industry needs. </li>
+                                                <li><b>Local Expertise: </b> Benefit from the insights of experienced web developers with a deep understanding of Jaipur's tech landscape.</li>
+                                                <li><b>Hands-On Learning: </b> Develop practical skills through real-world projects and coding exercises, tailored to Jaipur's tech industry needs.</li>
                                                 <li><b>Career Opportunities: </b> Jaipur's tech industry is on the rise, and proficiency in back-end development opens doors to exciting job prospects.</li>
-                                                <li><b>Personalized Learning:</b> Our course caters to learners of all levels, ensuring everyone can harness the potential of web development.</li>
+                                                <li><b>Personalized Learning: </b> Our course caters to learners of all levels, ensuring everyone can harness the potential of web development.</li>
                                                 </li>
                                             </ul>
                                             <h3>Who Should Enroll:</h3>
@@ -90,10 +90,9 @@
                                                 <li>Tech enthusiasts residing in Jaipur eager to master back-end development.</li>
                                             </ul>
                                             <h3>Your Back-End Development Journey Begins in Jaipur:</h3>
-                                            <p>With our Back-End Development Course with Node.js and Express.js in Jaipur, you're not just learning to code; you're mastering the art of creating powerful back-end systems that drive web applications. Join us in Jaipur's tech community and embark on your journey to becoming a proficient back-end developer.</p>
+                                            <p> With our Back-End Development Course with PHP in Jaipur, you're not just learning to code; you're mastering the art of creating powerful back-end systems that drive web applications. Join us in Jaipur's tech community and embark on your journey to becoming a proficient back-end developer.</p>
                                             <h3>Get in Touch:</h3>
-                                            <p>Ready to shape the back-end of web applications in Jaipur? Contact us today to enroll in our Back-End Development Course and start your path to web development success in Jaipur.</p>
-                                            <!--                                           
+                                            <p>Ready to shape the back-end of web applications in Jaipur? Contact us today to enroll in our Back-End Development Course and start your path to web development success in Jaipur.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
