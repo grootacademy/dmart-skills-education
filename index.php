@@ -56,7 +56,7 @@
 <!--Full width header End-->
 
 <!-- Main content Start -->
-<div class="main-content">
+<div class="main-content" data-aos="zoom-in">
     <!-- Banner Section Start -->
     <div id="rs-banner" class="rs-banner style10">
         <div class="container">
@@ -92,7 +92,7 @@
     <!-- Banner Section End -->
 
     <!-- Partner Start -->
-    <div class="rs-partner style2 pt-100 md-pt-70">
+    <div class="rs-partner style2 pt-100 md-pt-70" data-aos="zoom-in">
         <div class="container">
             <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
                 <div class="partner-item">
@@ -116,7 +116,7 @@
     <!-- Partner End -->
 
     <!-- Services Section Start -->
-    <div id="rs-services" class="rs-services home12-style">
+    <div id="rs-services" class="rs-services home12-style" data-aos="zoom-in">
         <div class="container">
             <div class="sec-title4 text-center mb-50">
                 <div class="sub-title">Increase Your Skill</div>
@@ -183,7 +183,7 @@
     <!-- Services Section End -->
 
     <!-- Categories Section Start -->
-    <div id="rs-popular-courses" class="rs-popular-courses main-home home12-style pt-90 pb-100 md-pt-0 md-pb-0">
+    <div id="rs-popular-courses" data-aos="zoom-in" class="rs-popular-courses main-home home12-style pt-90 pb-100 md-pt-0 md-pb-0">
         <div class="container">
             <div class="sec-title4 text-center mb-45">
                 <div class="sub-title">Select Courses</div>
@@ -419,7 +419,7 @@
     <!-- Categories Section End -->
 
     <!-- Choose Section Start -->
-    <div class="why-choose-us style3">
+    <div class="why-choose-us style3" data-aos="zoom-in">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 js-tilt md-mb-40">
@@ -467,7 +467,7 @@
     <!-- Choose Section End -->
 
     <!-- Counter Section End -->
-    <div class="rs-counter home12-style pt-80">
+    <div class="rs-counter home12-style pt-80" data-aos="zoom-in">
         <div class="container">
             <div class="row couter-area bg8">
                 <div class="col-lg-3 col-md-6 md-mb-30">
@@ -501,7 +501,7 @@
     <!-- Counter Section Start -->
 
     <!-- Faq Section Start -->
-    <div class="rs-faq-part style1 pt-100 pb-100 md-pt-70 md-pb-70">
+    <div class="rs-faq-part style1 pt-100 pb-100 md-pt-70 md-pb-70" data-aos="zoom-in">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 padding-0 col-md-12 md-mb-40">
@@ -518,7 +518,7 @@
                                     </div>
                                     <div id="collapseOne" class="collapse show" data-parent="#accordion">
                                         <div class="card-body">
-                                        Nothing required for offline classes. If you want to start online classes We will suggest you should have laptop.
+                                            Nothing required for offline classes. If you want to start online classes We will suggest you should have laptop.
                                         </div>
                                     </div>
                                 </div>
@@ -529,7 +529,7 @@
                                     </div>
                                     <div id="collapseTwo" class="collapse" data-parent="#accordion" style="">
                                         <div class="card-body">
-                                        We provide online and offline classes both. Our Recommendation is join our offline classes.
+                                            We provide online and offline classes both. Our Recommendation is join our offline classes.
                                         </div>
                                     </div>
                                 </div>
@@ -540,7 +540,7 @@
                                     </div>
                                     <div id="collapseThree" class="collapse" data-parent="#accordion" style="">
                                         <div class="card-body">
-                                           Yes, We Offer internships in various technologies. But there is certain criteria to get internship.
+                                            Yes, We Offer internships in various technologies. But there is certain criteria to get internship.
                                         </div>
                                     </div>
                                 </div>
@@ -553,13 +553,13 @@
                         <div class="sec-title3">
                             <h2 class="title white-color">Register Free Demo Classes</h2>
                         </div>
-                        <form  method="post" action="./process.php">
+                        <form method="post" action="./process.php">
                             <div class="row">
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="name" name="name" required placeholder="Name" >
+                                    <input class="from-control" type="text" id="name" name="name" required placeholder="Name">
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-12">
-                                    <input class="from-control" type="text" id="email" name="email" placeholder="Email" required >
+                                    <input class="from-control" type="text" id="email" name="email" placeholder="Email" required>
                                 </div>
                                 <div class="col-lg-6 mb-30 col-md-12">
                                     <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone" required>
@@ -569,7 +569,7 @@
                                 </div>
 
                                 <div class="col-lg-12 mb-35">
-                                    <textarea class="from-control" id="message" name="message" placeholder=" Message" ></textarea>
+                                    <textarea class="from-control" id="message" name="message" placeholder=" Message"></textarea>
                                 </div>
                             </div>
                             <div class="form-btn">
@@ -584,7 +584,7 @@
     <!-- faq Section Start -->
 
     <!-- Testimonial Section Start -->
-    <div class="rs-testimonial home12-style">
+    <div class="rs-testimonial home12-style" data-aos="zoom-in">
         <div class="container">
             <div class="sec-title4 mb-50 md-mb-30 text-center">
                 <div class="sub-title primary">Testimonial</div>
@@ -613,7 +613,7 @@
                                 <img src="assets/images/students/Simmi_Manghwani.png" alt="">
                             </div>
                             <div class="name">
-                            Simmi Manghwani
+                                Simmi Manghwani
                             </div>
                             <span class="designation">Student</span>
                         </div>
@@ -627,7 +627,7 @@
                                 <img src="assets/images/students/Shubham-saini.png" alt="">
                             </div>
                             <div class="name">
-                            Shubham-saini
+                                Shubham-saini
                             </div>
                             <span class="designation">Student</span>
                         </div>
@@ -641,7 +641,7 @@
                                 <img src="assets/images/students/SACHIN_KUMAWAT.png" alt="">
                             </div>
                             <div class="name">
-                            SACHIN KUMAWAT
+                                SACHIN KUMAWAT
                             </div>
                             <span class="designation">Student</span>
                         </div>
@@ -653,7 +653,7 @@
     <!-- Testimonial Section End -->
 
     <!-- Download Section Start -->
-    <div class="rs-download-app pt-100 pb-100 md-pt-70 md-pb-70">
+    <div class="rs-download-app pt-100 pb-100 md-pt-70 md-pb-70" data-aos="zoom-in">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 md-mb-40">
@@ -1024,8 +1024,8 @@
     </div>
                         -->
     <!-- Blog Section End -->
-                      
-  
+
+
 </div>
 <!-- Main content End -->
 
