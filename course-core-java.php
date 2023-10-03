@@ -9,12 +9,14 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Master Java: Your Path to Software Excellence</h1>
+
+            <h1 class="page-title">Building a Strong Java Foundation: Core Programming Course</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>Core Java Programming</li>
+
+                <li>Core java programming</li>
             </ul>
         </div>
     </div>
@@ -861,7 +863,161 @@
                                     </div>
                                 </div>
                             </div>
+<<<<<<< HEAD
                         </div>
+=======
+                            <div class="tab-pane fade" id="prod-reviews" role="tabpanel" aria-labelledby="prod-reviews-tab">
+                                <div class="content pt-30 pb-30 white-bg">
+                                    <div class="cource-review-box mb-30">
+                                        <h4>Stephane Smith</h4>
+                                        <div class="rating">
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                        </div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="helpful">Was this review helpful?</div>
+                                        <ul class="like-option">
+                                            <li><i class="fa fa-thumbs-o-up"></i></li>
+                                            <li><i class="fa fa-thumbs-o-down"></i></li>
+                                            <li><a class="report" href="#">Report</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="cource-review-box mb-30">
+                                        <h4>Anna Sthesia</h4>
+                                        <div class="rating">
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                        </div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="helpful">Was this review helpful?</div>
+                                        <ul class="like-option">
+                                            <li><i class="fa fa-thumbs-o-up"></i></li>
+                                            <li><i class="fa fa-thumbs-o-down"></i></li>
+                                            <li><a class="report" href="#">Report</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="cource-review-box mb-30">
+                                        <h4>Petey Cruiser</h4>
+                                        <div class="rating">
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                        </div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="helpful">Was this review helpful?</div>
+                                        <ul class="like-option">
+                                            <li><i class="fa fa-thumbs-o-up"></i></li>
+                                            <li><i class="fa fa-thumbs-o-down"></i></li>
+                                            <li><a class="report" href="#">Report</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="cource-review-box">
+                                        <h4>Rick O'Shea</h4>
+                                        <div class="rating">
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                        </div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="helpful">Was this review helpful?</div>
+                                        <ul class="like-option">
+                                            <li><i class="fa fa-thumbs-o-up"></i></li>
+                                            <li><i class="fa fa-thumbs-o-down"></i></li>
+                                            <li><a class="report" href="#">Report</a></li>
+                                        </ul>
+                                        <a href="#" class="more">View More</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video Column -->
+                <div class="video-column col-lg-4">
+                    <div class="inner-column">
+                        <!-- Get in tuch -->
+
+                        <div class="rs-quick-contact new-style">
+                            <div class="inner-part mb-50">
+                                <h2 class="title mb-15">Get In Touch</h2>
+                                <p><b>Ready to Take the Next Step?</b><br />
+
+                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
+                            </div>
+                            <div id="form-messages"></div>
+                            <form method="post" action="./process.php">
+                                <div class="row">
+                                    <div class="col-lg-6 mb-35 col-md-12">
+                                        <input class=" form-control" type="text" id="name" name="name" placeholder="Name" required="">
+                                    </div>
+                                    <div class="col-lg-6 mb-35 col-md-12">
+                                        <input class=" form-control" type="text" id="email" name="email" placeholder="Email" required="">
+                                    </div>
+                                    <div class="col-lg-6 mb-35 col-md-12">
+                                        <input class=" form-control" type="text" id="phone" name="phone" placeholder="Phone" required="">
+                                    </div>
+                                    <div class="col-lg-6 mb-35 col-md-12">
+                                        <input class=" form-control" type="text" id="subject" name="courseName" placeholder="Course Name in that you are intersted" required="">
+                                    </div>
+
+                                    <div class="col-lg-12 mb-50">
+                                        <textarea class=" form-control" id="message" name="message" placeholder=" Message" required=""></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group mb-0">
+                                    <input class="btn-send form-control btn btn-success" type="submit" value="Submit Now">
+                                </div>
+                            </form>
+                        </div>
+                        <!-- End Video Box -->
+                        <div class="course-features-info">
+                            <h4 class="title mb-15">Our popular Courses</h4>
+                            <ul>
+                                <li class="lectures-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">Front End Development</span>
+                                    <a href="./course-front-end-development.php"><span class="value btn btn-success">Details</span></a>
+                                </li>
+
+                                <li class="quizzes-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">Back End with java </span>
+                                    <a href="./course-bakcend-developemnt-with-java.php"><span class="value btn btn-success">Details</span></a>
+                                </li>
+
+                                <li class="duration-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">MERN Stack</span>
+                                    <a href="./course-frontend-development-reactjs.php"><span class="value btn btn-success">Details</span></a>
+                                </li>
+
+                                <li class="assessments-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">MEAN Stack </span>
+                                    <a href="./course-front-end-developemnt-angularjs.php"><span class="value btn btn-success">Details</span></a>
+
+                                </li>
+
+                                <li class="students-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">React Native</span>
+                                    <a href="./course-react-native-application.php"><span class="value btn btn-success">Details</span></a>
+
+                                </li>
+
+                                <li class="assessments-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">BackEnd with Python </span>
+                                    <a href="./course-bakcend-developemnt-with-python-django.php"><span class="value btn btn-success">Details</span></a>
+
+                                </li>
+
+                                <li class="assessments-feature">
+                                    <i class="fa fa-check-square-o"></i>
+                                    <span class="label">BackEnd with PHP </span>
+                                    <a href="./course-bakcend-developemnt-with-php.php"><span class="value btn btn-success">Details</span></a>
+
+                                </li>
+                            </ul>
+                        </div>
+
+
+>>>>>>> 0c16a62f6fec675992f7d85cd95837f6f820c0ce
                     </div>
                 </div>
             </div>
