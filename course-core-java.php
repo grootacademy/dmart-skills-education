@@ -9,14 +9,22 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
+<<<<<<< HEAD
 
             <h1 class="page-title">Building a Strong Java Foundation: Core Programming Course</h1>
+=======
+            <h1 class="page-title">Climb the Coding Ladder: Elevate Your Skills with C and C++ Programming</h1>
+>>>>>>> parent of 0c16a62 (changes animation on index page footer header)
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
+<<<<<<< HEAD
 
                 <li>Core java programming</li>
+=======
+                <li>C and C++ Programming</li>
+>>>>>>> parent of 0c16a62 (changes animation on index page footer header)
             </ul>
         </div>
     </div>
@@ -66,7 +74,7 @@
                                             <ul class="review-list">
                                                 <li><b>Introduction to Java:</b> Begin your journey by understanding the Java language's fundamentals, syntax, and principles</li>
                                                 <li><b>Object-Oriented Programming (OOP):</b>Master OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation that form the foundation of Java.</li>
-                                                <li><b>Data Structures:</b> Explore data structures like arrays, lists, stacks, queues, and trees to efficiently manage and manipulate data.
+                                                <li><b>Data Structures:</b>  Explore data structures like arrays, lists, stacks, queues, and trees to efficiently manage and manipulate data.
                                                 </li>
                                                 <li><b>Exception Handling: </b>Learn to handle exceptions gracefully, ensuring robust and reliable code.</li>
                                                 <li><b>Multithreading:</b> Dive into the world of concurrent programming with Java, enabling you to build efficient and responsive applications.</li>
@@ -79,7 +87,7 @@
                                             <h3>Why Choose Our Java Course:</h3>
                                             <ul class="review-list">
                                                 <li><b>Expert Instruction:</b>Learn from industry experts with real-world Java development experience, who are dedicated to your success.</li>
-                                                <li><b>Hands-On Learning:</b> Put theory into practice with a range of coding exercises, projects, and practical applications.</li>
+                                                <li><b>Hands-On Learning:</b>  Put theory into practice with a range of coding exercises, projects, and practical applications.</li>
                                                 <li><b>Career Relevance:</b>Java is one of the most in-demand programming languages, and our course equips you with skills that are highly sought after by employers.</li>
                                                 <li><b>Personalized Support:</b> Benefit from our personalized approach to learning, tailored to your pace and style.</li>
                                                 </li>
@@ -92,11 +100,11 @@
                                                 <li>Hobbyists interested in software development and coding.</li>
                                             </ul>
                                             <h3>Your Java Journey Begins Here:</h3>
-                                            <p>With our Java Course, you're not just learning a programming language; you're gaining the keys to unlock a world of possibilities. Whether you dream of building web applications, mobile apps, games, or enterprise software, Java is your foundation. Join us and embark on a journey of coding excellence.</p>
+                                            <p>With our Java Course, you're not just learning a programming language; you're gaining the keys to unlock a world of possibilities. Whether you dream of building web applications, mobile apps, games, or enterprise software, Java is your foundation. Join us and embark on a journey of coding excellence.</p>                             
                                             <h3>Get in Touch:</h3>
                                             <p>Ready to take your first steps into the world of Java programming? Contact us today to enroll in our Java Course and start your journey towards becoming a proficient Java developer.
 
-                                                (Note: The provided content is designed to introduce the Java Course. It's recommended to adapt the content to your specific course offerings and website format.).</p> <!--                                           
+(Note: The provided content is designed to introduce the Java Course. It's recommended to adapt the content to your specific course offerings and website format.).</p>                                            <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -930,94 +938,58 @@
                 <!-- Video Column -->
                 <div class="video-column col-lg-4">
                     <div class="inner-column">
-                        <!-- Get in tuch -->
-
-                        <div class="rs-quick-contact new-style">
-                            <div class="inner-part mb-50">
-                                <h2 class="title mb-15">Get In Touch</h2>
-                                <p><b>Ready to Take the Next Step?</b><br />
-
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
-                            </div>
-                            <div id="form-messages"></div>
-                            <form method="post" action="./process.php">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="email" name="email" placeholder="Email" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="phone" name="phone" placeholder="Phone" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="subject" name="courseName" placeholder="Course Name in that you are intersted" required="">
-                                    </div>
-
-                                    <div class="col-lg-12 mb-50">
-                                        <textarea class=" form-control" id="message" name="message" placeholder=" Message" required=""></textarea>
-                                    </div>
-                                </div>
-                                <div class="form-group mb-0">
-                                    <input class="btn-send form-control btn btn-success" type="submit" value="Submit Now">
-                                </div>
-                            </form>
+                        <!-- Video Box -->
+                        <div class="intro-video media-icon orange-color2">
+                            <img class="video-img" src="assets/images/about/about-video-bg2.png" alt="Video Image">
+                            <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
+                                <i class="fa fa-play"></i>
+                            </a>
+                            <h4>Preview this course</h4>
                         </div>
                         <!-- End Video Box -->
                         <div class="course-features-info">
-                            <h4 class="title mb-15">Our popular Courses</h4>
                             <ul>
                                 <li class="lectures-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Front End Development</span>
-                                    <a href="./course-front-end-development.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-files-o"></i>
+                                    <span class="label">Lectures</span>
+                                    <span class="value">3</span>
                                 </li>
 
                                 <li class="quizzes-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Back End with java </span>
-                                    <a href="./course-bakcend-developemnt-with-java.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-puzzle-piece"></i>
+                                    <span class="label">Quizzes</span>
+                                    <span class="value">0</span>
                                 </li>
 
                                 <li class="duration-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MERN Stack</span>
-                                    <a href="./course-frontend-development-reactjs.php"><span class="value btn btn-success">Details</span></a>
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MEAN Stack </span>
-                                    <a href="./course-front-end-developemnt-angularjs.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class="label">Duration</span>
+                                    <span class="value">10 week </span>
                                 </li>
 
                                 <li class="students-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">React Native</span>
-                                    <a href="./course-react-native-application.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-users"></i>
+                                    <span class="label">Students</span>
+                                    <span class="value">21</span>
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with Python </span>
-                                    <a href="./course-bakcend-developemnt-with-python-django.php"><span class="value btn btn-success">Details</span></a>
-
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with PHP </span>
-                                    <a href="./course-bakcend-developemnt-with-php.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <span class="label">Assessments</span>
+                                    <span class="value">Yes</span>
                                 </li>
                             </ul>
                         </div>
 
+<<<<<<< HEAD
 
 >>>>>>> 0c16a62f6fec675992f7d85cd95837f6f820c0ce
+=======
+                        <div class="btn-part">
+                            <a href="#" class="btn readon2 orange">$35</a>
+                            <a href="#" class="btn readon2 orange-transparent">Buy Now</a>
+                        </div>
+>>>>>>> parent of 0c16a62 (changes animation on index page footer header)
                     </div>
                 </div>
             </div>
