@@ -111,19 +111,17 @@
                                 <div class="content">
                                     <div id="accordion" class="accordion-box">
                                         <div class="card accordion block">
-                                            <div class="card-header" id="headingOne">
+                                            <div class="card-header" id="headingSix">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">UI/ UX Introduction</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> Getting started with NodeJS Welcome</button>
                                                 </h5>
                                             </div>
-
-                                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-                                                <div class="card-body acc-content current">
+                                            <div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is Node</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -133,8 +131,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Node Architecture</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -144,8 +141,27 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>How Node Works</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Installing Node</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Your First Node Program</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -156,19 +172,17 @@
                                             </div>
                                         </div>
                                         <div class="card accordion block">
-                                            <div class="card-header" id="headingTwo">
+                                            <div class="card-header" id="headingSevan">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color
-                                                        Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSevan" aria-expanded="false" aria-controls="collapseThree">Node Module System</button>
                                                 </h5>
                                             </div>
-                                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                            <div id="collapseSevan" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
                                                 <div class="card-body acc-content">
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introduction</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -178,8 +192,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Global Object</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -189,8 +202,179 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Modules</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating a Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Loading a Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Path Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> OS Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> File System Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Events Module</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Event Arguments</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingEight">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseThree">
+                                                        Node Package Manager (NPM)</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseEight" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introduction</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Package.json</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Installing a Node Package</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Using a Package</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Package Dependencies</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Installing a Specific Version of a Package </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Updating Local Packages</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> DevDependencies</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Working with Global Package</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -203,8 +387,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic
-                                                        Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                        Building RESTful API Using Express</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -212,8 +396,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introduction</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -223,8 +406,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> RESTful Services</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -234,8 +416,127 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introducing Express</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Building Your First Web Server</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Nodemon</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Environment Variables </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Route Parameters </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Handling HTTP GET Requests </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling HTTP POST Requests</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Calling Endpoints Using Postman </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input Validation</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling HTTP PUT Requests</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Handling HTTP Delete Requests </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Project- Build the Genres API</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Building RESTful APIs with Express Recap</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>

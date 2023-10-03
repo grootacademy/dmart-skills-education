@@ -114,7 +114,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingOne">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">UI/ UX Introduction</button>
+                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Introduction to React js Programming</button>
                                                 </h5>
                                             </div>
 
@@ -123,8 +123,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon">
+                                                                    <i class="fa fa-play"></i>Introduction to react JS</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -134,8 +134,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>HTML-CSS-JS</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -145,8 +144,157 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>SPAs and React Web Apps</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>ReactJS Overview.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Single Page Apps VS Multi-Page Applications.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is a DOM, VirtualDOM and ShadowDOM?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Installing ReactJS and writing our first Hello World code.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>The Folder Structure of React Application.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Basic Building Blocks of React JS – (components,state,props,jsx)</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What are the components? Understanding the component basics and different types of components.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What are the functional components and container components?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating your first class-based component and functional component.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Understanding JS and JSX restrictions.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Component Nesting.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What are props and a simple understanding of props?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Passing Props into components.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Accessing props inside the components</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating reusable dynamic component</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -159,8 +307,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingTwo">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color
-                                                        Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">UI and Components Styling In React</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -168,8 +315,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Styling React components. The different ways of styling the react components.</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -179,8 +325,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Inline styles and external styles to the components.</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -190,8 +335,37 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Using styled-components.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating a navigation-bar in reactJS.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introduction to React Router.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating Routes to our Navigation Bar.</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -204,8 +378,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic
-                                                        Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"> React Architecture</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -213,8 +386,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Components configuration with state, props and children.</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -224,8 +396,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Understanding and using state and props, and Differences between props and state</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -235,8 +406,177 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Handling Events</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Manipulating the state with setState() method</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Difference between stateless and stateful components.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Adding two-way binding.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Rendering content conditionally.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Making API REQUESTS with React.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Fetching data – Axios vs Fetch.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Building Lists from data</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> The purpose of keys in lists and Implementing keys in lists.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling User Input with forms and events.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Controlled Elements versus uncontrolled elements.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Handling forms submitted.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Understanding this in Javascript and solving context issues.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Communicating a child to parent.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling user Input of dynamic forms</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Communicating a child to parent.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Adding Custom Form Validation.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling overall form validity</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -246,6 +586,269 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingFour">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree"> Redux and advance Concepts</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Using Refs for DOM Access.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Redux, and The complexity of managing state.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Adding Redux to the React Project and Redux Devtools.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is the provider and adding the provider?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Setting Up the Reducer and the Store</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Dispatching the Actions.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Passing and Retrieving Data with Actions.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Switch Case in the reducer</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Updating the State and the Array Immutable.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Combining multiple Reducers.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Handling Authentication in React.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> The Context System with React.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingFaiv">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> Hooks</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseFaiv" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introducing Lifecycle method</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Why use Lifecycle methods</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>React Hooks – An Introduction, Why React Hooks</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Moving from classes to functional components</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Introducing the first Hook: useState Hook and Second Hook: useEffect Hook</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Data Fetching with hooks/replacing the class lifecycle methods</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Fetching data on component mount with useEffect</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Using the useRef Hook</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Displaying loading state with useState</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Error Handling and displaying errors with useState</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> The useReducer Hook</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Using the use Context Hook</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
                                     </div>
                                 </div>
                             </div>

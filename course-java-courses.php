@@ -9,12 +9,12 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Climb the Coding Ladder: Elevate Your Skills with C and C++ Programming</h1>
+            <h1 class="page-title">Climb the Coding Ladder:Master Java Programming in Jaipur: Your Gateway to Tech Excellence</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>C and C++ Programming</li>
+                <li>Java Programming</li>
             </ul>
         </div>
     </div>
@@ -51,49 +51,46 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Python Course: Unleash the Power of Programming</h4>
-                                            <p>Welcome to our Python Course, your gateway to mastering one of the most versatile and widely used programming languages in the world. Whether you're a beginner with no coding experience or an experienced developer looking to expand your skill set, our comprehensive Python Course is designed to empower you to excel in various domains of software development.</p>
-                                            <h4>Course Overview:</h4>
-                                            <p>Our Python Course is a comprehensive journey that takes you from the basics to advanced Python programming. Python's simplicity and readability make it an excellent choice for beginners, yet its power and versatility make it a favorite among professionals. With our course, you'll not only learn Python syntax but also explore real-world applications, projects, and scenarios.</p>
+                                            <h4>Explore Java Programming Courses in Jaipur</h4>
+                                            <p>Welcome to our specialized Java programming courses tailored for Jaipur's aspiring tech professionals. At our institute, we understand the unique aspirations and career needs of Jaipur's vibrant tech community. That's why we offer comprehensive Java courses designed to equip you with industry-relevant skills and knowledge, ensuring you stand out in Jaipur's competitive job market. </p>
+                                            <h4>Course Overview:Master the Skills You Need</h4>
+                                            <p>Welcome to our comprehensive course offerings designed to empower you with the knowledge and expertise you need to succeed. Our courses are meticulously crafted to cater to a diverse range of learners, from beginners eager to start their journey to experienced professionals looking to enhance their skills.</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
                                                 <li>1256 Reviews 5*</li>
                                             </ul>
-                                            <h3>What You Will Learn:</h3>
+                                            <h3>Why Choose Our Java Courses:</h3>
                                             <ul class="review-list">
-                                                <li><b>Introduction to Python:</b> Get acquainted with Python's syntax, variables, data types, and fundamental concepts.</li>
-                                                <li><b>Control Structures:</b>Master control structures like loops and conditional statements for efficient code execution.</li>
-                                                <li><b>Functions and Modules:</b>Learn to create reusable functions and explore Python's extensive library of modules.
-                                                </li>
-                                                <li><b>Data Structures:</b>Dive into Python's data structures, including lists, tuples, dictionaries, and sets.</li>
-                                                <li><b>File Handling:</b>Discover how to read from and write to files, a crucial skill for data processing and storage.</li>
-                                                <li><b>Object-Oriented Programming (OOP):</b> Understand OOP principles in Python, including classes, objects, inheritance, and polymorphism.</li>
-                                                <li><b>Error Handling:</b>Learn to handle exceptions gracefully, ensuring robust and reliable code.
-                                                <li><b>Web Development with Python: </b> Explore web development using Python with frameworks like Django and Flask.
+                                                <li><b>Comprehensive Curriculum:</b>Our courses cover Java fundamentals, object-oriented programming, advanced concepts, and real-world applications. From basics to advanced topics, we ensure a well-rounded learning experience.</li>
+                                                <li><b>Expert Instructors:</b>Learn from seasoned Java developers and educators who bring real-world insights and industry best practices into the classroom. Benefit from their expertise and guidance throughout your learning journey.</li>
+                                                <li><b>Hands-On Projects: </b>Apply your knowledge through hands-on projects, building applications and solving real-world problems. Practical experience is a key focus, allowing you to build a strong portfolio.</li>
+                                                <li><b>Interactive Learning:</b>Engage in interactive classes and discussions, promoting a dynamic learning environment. Collaborate with fellow learners, share ideas, and participate in coding challenges to enhance your skills.</li>
+                                                <li><b>Job-Relevant Skills: </b>Gain skills that are in high demand in Jaipur's tech industry. Whether you're seeking a career change or aiming to advance in your current job, our courses provide job-relevant skills.</li>
+                                                <li><b>Career Guidance: </b>Receive guidance on career pathways, job opportunities, and industry trends. Prepare for interviews and job applications with confidence.</li>
+                                                <li><b></b></li>
                                                 </li>
                                                 </li>
                                             </ul>
-                                            <h3>Why Choose Our Python Course:</h3>
+                                            <h3>Why Choose Our Java Courses in Jaipur:</h3>
                                             <ul class="review-list">
-                                                <li><b>Expert Instruction:</b>Learn from experienced Python developers who bring real-world insights to the classroom.</li>
-                                                <li><b>Hands-On Projects:</b>Apply your knowledge through practical projects, including web applications, data analysis, and automation scripts.</li>
-                                                <li><b>Career Opportunities:</b>Python skills are in high demand across industries, making this course an excellent investment in your career.</li>
-                                                <li><b>Personalized Learning:</b>Benefit from our learner-centric approach, tailored to your pace and style of learning.</li>
+                                                <li><b>Local Relevance:</b>Our courses are tailored to Jaipur's tech landscape, ensuring you learn skills directly applicable to local job requirements.</li>
+                                                <li><b>Career Advancement:</b> Java expertise opens doors to diverse career paths in Jaipur, from software development to system architecture. Advance in your current job or explore new opportunities.</li>
+                                                <li><b>Networking:</b>Connect with fellow learners and industry professionals in Jaipur. Expand your professional circle and stay updated on Jaipur's tech scene.</li>
+                                                <li><b>Certification:</b>Earn a recognized certification upon course completion. Showcase your skills and boost your resume's appeal to Jaipur-based employers.</li>
                                                 </li>
                                             </ul>
-                                            <h3>Who Should Enroll:</h3>
+                                            <h3>Who Should Enroll</h3>
                                             <ul class="review-list">
-                                                <li>Beginners eager to enter the world of programming.</li>
-                                                <li>Students pursuing computer science or related fields.</li>
-                                                <li>Professionals seeking to add Python to their skillset.</li>
-                                                <li>Enthusiasts interested in automation, data analysis, web development, and more.</li>
+                                                <li><b>Students:</b> Computer science students aiming to excel in Java programming.</li>
+                                                <li><b>Professionals:</b> IT professionals seeking to enhance their Java skills for career growth in Jaipur.</li>
+                                                <li><b>Entrepreneurs:</b> Tech enthusiasts aspiring to launch tech startups in Jaipur.</li>
+                                                <li></li>
                                             </ul>
-                                            <h3>Your Python Journey Begins Here:</h3>
-                                            <p>With our Python Course, you're not just learning a programming language; you're gaining the ability to bring your ideas to life. Python's versatility opens doors to various domains, from web development and data analysis to artificial intelligence and automation. Join us in this exciting journey of coding excellence.</p>
-                                            <h3>Get in Touch:</h3>
-                                            <p>Ready to embark on your Python adventure? Contact us today to enroll in our Python Course and start your path to becoming a proficient Python programmer.
-                                                (Note: The provided content is designed to introduce the Python Course. It's recommended to adapt the content to your specific course offerings and website format.)</p> <!--                                           
+                                            <h3>Your Jaipur Tech Journey Begins Here: </h3>
+                                            <p> Ready to master Java programming in Jaipur? Enroll in our Java courses and join a community of passionate learners shaping Jaipur's tech future. Your journey to tech excellence starts now.</p>
+                                            <h3>Enroll Today and Excel Tomorrow:</h3>
+                                            <p>Seize the opportunity to excel in Jaipur's tech industry. Enroll in our Java courses today and unlock a world of possibilities in the Pink City.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -581,7 +578,8 @@
                                                 <img src="assets/images/team/shivanshi-paliwal.jpeg" alt="">
                                                 <div class="content-part">
                                                     <h4 class="name"><a href="#">Shivanshi Paliwal</a></h4>
-                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring & Hibernate</span>
+                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring &
+                                                        Hibernate</span>
                                                     <ul class="social-links">
                                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -624,7 +622,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX Design?</a>
+                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -634,7 +633,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -644,7 +644,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -657,7 +658,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingEight">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color
+                                                        Theory</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion3">
@@ -665,7 +667,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -675,7 +678,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -685,7 +689,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -698,7 +703,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingNine">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic
+                                                        Typography</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion3">
@@ -706,7 +712,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -716,7 +723,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -726,7 +734,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -744,9 +753,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Stephane Smith</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -757,9 +770,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Anna Sthesia</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -770,9 +787,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Petey Cruiser</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -783,9 +804,13 @@
                                     <div class="cource-review-box">
                                         <h4>Rick O'Shea</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
