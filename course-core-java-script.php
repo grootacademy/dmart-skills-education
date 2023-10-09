@@ -9,12 +9,12 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Master Core JavaScript in Jaipur</h1>
+            <h1 class="page-title">Climb the Coding Ladder: Elevate Your Skills with C and C++ Programming</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>Core java Programming</li>
+                <li>C and C++ Programming</li>
             </ul>
         </div>
     </div>
@@ -51,10 +51,10 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Master Core JavaScript in Jaipur</h4>
-                                            <p>Welcome to our Core JavaScript Course in Jaipur, your opportunity to dive deep into the world of JavaScript programming right here in the Pink City. Whether you're a budding web developer, a coding enthusiast, or a professional looking to establish a strong foundation in JavaScript, our comprehensive course is designed to meet the unique learning needs of Jaipur's vibrant tech community.</p>
+                                            <h4>Mas</h4>
+                                            <p>Wel </p>
                                             <h4>Course Overview: </h4>
-                                            <p>Our Core JavaScript Course in Jaipur is carefully crafted to empower you with fundamental knowledge and skills in JavaScript, one of the most crucial programming languages for web development. In a city known for its rich heritage and technological progress, we're committed to nurturing a new generation of JavaScript enthusiasts. This course covers everything you need to establish a strong foothold in JavaScript.</p>
+                                            <p>Our4</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
@@ -62,36 +62,37 @@
                                             </ul>
                                             <h3>What You Will Learn:</h3>
                                             <ul class="review-list">
-                                                <li><b>JavaScript Basics: </b> Build a solid foundation in JavaScript, covering variables, data types, and control structures.</li>
-                                                <li><b>Functions and Scope: </b> Understand JavaScript functions, scope, and the importance of clean code.</li>
-                                                <li><b>DOM Manipulation: </b> Learn to interact with the Document Object Model (DOM) to create dynamic web pages.</li>
-                                                <li><b>Events and Event Handling: </b> Master event-driven programming and handling user interactions.</li>
-                                                <li><b>Asynchronous JavaScript: </b> Grasp the concepts of asynchronous programming and AJAX for dynamic web applications.</li>
-                                                <li><b>Error Handling: </b> Learn best practices for error handling and debugging your JavaScript code.</li>
-                                                <li><b>ES6 Features: </b> Explore essential features of ECMAScript 6 (ES6) for modern JavaScript development.</li>
-                                                <li><b>Project Work: </b> Apply your core JavaScript knowledge to practical projects to reinforce your learning.</li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
                                                 </li>
                                                 </li>
                                             </ul>
                                             <h3>Why Choose Our Course:</h3>
                                             <ul class="review-list">
-                                                <li><b>Local Expertise: </b> Learn from experienced JavaScript developers with insights into Jaipur's tech landscape.</li>
-                                                <li><b>Hands-On Learning: </b> Apply your knowledge through practical coding exercises and real-world projects, tailored to Jaipur's tech industry.</li>
-                                                <li><b>Career Prospects: </b> JavaScript proficiency opens doors to exciting job opportunities in Jaipur's thriving tech sector.</li>
-                                                <li><b>Personalized Learning: </b> Our course caters to various skill levels, ensuring everyone can harness the potential of JavaScript.</li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
+                                                <li><b></li>
                                                 </li>
                                             </ul>
                                             <h3>Who Should Enroll</h3>
                                             <ul class="review-list">
-                                                <li>Aspiring web developers in Jaipur.</li>
-                                                <li>Students pursuing web development or related fields in Jaipur.</li>
-                                                <li>Professionals in Jaipur looking to enhance their JavaScript skills.</li>
-                                                <li>Tech enthusiasts residing in Jaipur eager to establish a solid foundation in JavaScript.</li>
+                                                <li></li>
+                                                <li></li>
+                                                <li></li>
+                                                <li></li>
                                             </ul>
-                                            <h3>Your Core JavaScript Journey Begins in Jaipur: </h3>
-                                            <p> With our Core JavaScript Course in Jaipur, you're not just learning coding; you're mastering the essential elements of JavaScript programming, setting a strong foundation in Jaipur's tech community. Join us and embark on your journey to becoming a proficient JavaScript developer.</p>
+                                            <h3>Your </h3>
+                                            <p> </p>
                                             <h3>Get in Touch:</h3>
-                                            <p>Ready to establish your JavaScript skills in Jaipur? Contact us today to enroll in our Core JavaScript Course and start your path to becoming a JavaScript expert in Jaipur.</p> <!--                                           
+                                            <p></p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -505,93 +506,53 @@
                 <!-- Video Column -->
                 <div class="video-column col-lg-4">
                     <div class="inner-column">
-                        <!-- Get in tuch -->
-
-                        <div class="rs-quick-contact new-style">
-                            <div class="inner-part mb-50">
-                                <h2 class="title mb-15">Get In Touch</h2>
-                                <p><b>Ready to Take the Next Step?</b><br />
-
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
-                            </div>
-                            <div id="form-messages"></div>
-                            <form method="post" action="./process.php">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="email" name="email" placeholder="Email" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="phone" name="phone" placeholder="Phone" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="subject" name="courseName" placeholder="Course Name in that you are intersted" required="">
-                                    </div>
-
-                                    <div class="col-lg-12 mb-50">
-                                        <textarea class=" form-control" id="message" name="message" placeholder=" Message" required=""></textarea>
-                                    </div>
-                                </div>
-                                <div class="form-group mb-0">
-                                    <input class="btn-send form-control btn btn-success" type="submit" value="Submit Now">
-                                </div>
-                            </form>
+                        <!-- Video Box -->
+                        <div class="intro-video media-icon orange-color2">
+                            <img class="video-img" src="assets/images/about/about-video-bg2.png" alt="Video Image">
+                            <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
+                                <i class="fa fa-play"></i>
+                            </a>
+                            <h4>Preview this course</h4>
                         </div>
                         <!-- End Video Box -->
                         <div class="course-features-info">
-                            <h4 class="title mb-15">Our popular Courses</h4>
                             <ul>
                                 <li class="lectures-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Front End Development</span>
-                                    <a href="./course-front-end-development.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-files-o"></i>
+                                    <span class="label">Lectures</span>
+                                    <span class="value">3</span>
                                 </li>
 
                                 <li class="quizzes-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Back End with java </span>
-                                    <a href="./course-bakcend-developemnt-with-java.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-puzzle-piece"></i>
+                                    <span class="label">Quizzes</span>
+                                    <span class="value">0</span>
                                 </li>
 
                                 <li class="duration-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MERN Stack</span>
-                                    <a href="./course-frontend-development-reactjs.php"><span class="value btn btn-success">Details</span></a>
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MEAN Stack </span>
-                                    <a href="./course-front-end-developemnt-angularjs.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class="label">Duration</span>
+                                    <span class="value">10 week </span>
                                 </li>
 
                                 <li class="students-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">React Native</span>
-                                    <a href="./course-react-native-application.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-users"></i>
+                                    <span class="label">Students</span>
+                                    <span class="value">21</span>
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with Python </span>
-                                    <a href="./course-bakcend-developemnt-with-python-django.php"><span class="value btn btn-success">Details</span></a>
-
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with PHP </span>
-                                    <a href="./course-bakcend-developemnt-with-php.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <span class="label">Assessments</span>
+                                    <span class="value">Yes</span>
                                 </li>
                             </ul>
                         </div>
 
-
+                        <div class="btn-part">
+                            <a href="#" class="btn readon2 orange">$35</a>
+                            <a href="#" class="btn readon2 orange-transparent">Buy Now</a>
+                        </div>
                     </div>
                 </div>
             </div>
