@@ -107,7 +107,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingOne">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">h</button>
+                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Basic of Java</button>
                                                 </h5>
                                             </div>
 
@@ -117,90 +117,90 @@
                                                         <div class="clearfix">
                                                             <div class="pull-left">
                                                                 <a class="popup-videos play-icon">
-                                                                    <i class="fa fa-play"></i> a1</a>
+                                                                    <i class="fa fa-play"></i> Java - What, Where and Why?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>History and Features of Java</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>History and Features of Java</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Difference between JDK,JRE and JVM</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Internal Details of JVM</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Variable and Data Type</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a7</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Types of Variable in Java</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a8</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Control Statements in Java</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a9</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Unicode System</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -210,7 +210,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingTwo">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">h2</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> Nested Classes</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -218,60 +218,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Nested Class: What and Why?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Member Inner class</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Anonymous Inner class</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Local Inner class</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>static nested class</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Nested Interface</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -281,8 +281,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                                        h3</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Multithreading</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -290,60 +289,120 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Multithreading : What and Why?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Life Cycle of a Thread</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating Thread,Thread Scheduler</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Sleeping a thread</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Joining a thread</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Thread Priority</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Daemon Thread</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Thread Pooling</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Thread Group,Shutdown Hook</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Performing multiple task by multiple thread</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Garbage Collection</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Runnable class</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -353,7 +412,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingFour">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree"> h4</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">Synchronization</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -361,60 +420,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Synchronization : What and Why?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>synchronized method</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>synchronized block</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>static synchronization</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Deadlock</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Inter-thread Communication</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -424,7 +483,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingFaiv">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> h5</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> Input and Output</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseFaiv" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -432,60 +491,150 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>FileOutputStream & FileInputStream</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> ByteArrayOutputStream</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>SequenceInputStream</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> BufferedOutputStream & BufferedInputStream</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>FileWriter & FileReader</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> CharArrayWriter</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by InputStreamReader</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by InputStreamReader</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by Console</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Input from keyboard by Scanner </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>PrintStream class </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> PrintWriter class</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Reading and Writing data simultaneously</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>DataInputStream and DataOutputStream </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>StreamTokenizer class </a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -495,7 +644,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingSix">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> h6</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> AWT and EventHandling</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -503,60 +652,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>AWT Controls</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> EventHandling by 3 ways</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Event classes and Listener Interfaces</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Event classes and Listener Interfaces</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Adapter classes</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Creating Games and Applications</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes">35 Minutes</div>
+                                                                <div class="minutes"></div>
                                                             </div>
                                                         </div>
                                                     </div>
