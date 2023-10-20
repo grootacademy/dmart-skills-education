@@ -204,10 +204,10 @@
                                                     <li><a href="carear-option-with-python-programmin.php">Python</a>
                                                         <ul class="sub-menu right">
                                                             <li><a href="course-python-programming.php"> Python Programming</a></li>
-                                                            <li><a href="course-advance-java-script.php">Data Analyst</a></li>
-                                                            <li><a href="course-frontend-development-reactjs.php">Data Science</a></li>
-                                                            <li><a href="course-bakcend-developemnt-with-nodejs.php">Machine Learning</a></li>
-                                                            <li><a href="course-front-end-developemnt-angularjs.php">Artificial Intelligence</a></li>
+                                                            <li><a href="best-data-analyst-course-in-jaipur.php">Data Analyst</a></li>
+                                                            <li><a href="best-data-science-course-in-jaipur.php">Data Science</a></li>
+                                                            <li><a href="best-machine-learning-course-in-jaipur.php">Machine Learning</a></li>
+                                                            <li><a href="best-artificial-intelligence-course-in-jaipur.php">Artificial Intelligence</a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="course-web-desining.php">Web Desinging</a></li>

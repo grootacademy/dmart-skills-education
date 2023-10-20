@@ -113,7 +113,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingOne">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">UI/ UX Introduction</button>
+                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Pre-Requisites:</button>
                                                 </h5>
                                             </div>
 
@@ -122,8 +122,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon">
+                                                                    <i class="fa fa-play"></i> Basic Python (Intermediate Level):</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -133,8 +133,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Git</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -144,8 +143,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Basic Linux</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -158,8 +156,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingTwo">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color
-                                                        Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Mathematics for Data Science</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -167,8 +164,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Statistics – Descriptive & Inferential Stats</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -178,8 +174,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Probability- Basic & Condition Probability ,Bayes' theorem</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -189,8 +184,27 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Algebra Mathematics – Linear & Polynomial Equations</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Matrices & Vectors – properties, operation ,use Cases</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Calculus</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -203,8 +217,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic
-                                                        Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Data Collection Tools & Techniques</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -212,8 +225,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Web Scraping</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -223,8 +235,7 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Logging</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -234,8 +245,220 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
-                                                                    Design?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>DBMS Queries</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>DBMS Queries</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingFour">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree"> Data Engineering or Data Preprocessing</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Data Formats & Structures (csv, tsv , excel sheet etc.)</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Assessing Data for Quality Cheque</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Data Wrangling Techniques</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Ø Discovering</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Ø Structuring</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Ø Cleaning</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingFaiv">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> Data Analysis or Getting Insights from Data</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseFaiv" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Process of Question Building</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Answering Common Questions related to data</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Application of Stats to find useful information out of data</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Data Modeling</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingSix">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> Data Visualization</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Aesthetics of plots</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Creating charts, plots and maps</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Bar Chart , Box plot, Histograms , line plot</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Scatter plot, Violin plots ,Word Cloud, Maps etc.</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Exploratory Data Analysis</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Understanding Trends ,Outliers ,and pattern in Data</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Creating Live Plots</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>

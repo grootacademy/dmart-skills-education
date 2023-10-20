@@ -9,12 +9,12 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Jaipur's Premier Spring and Hibernate Course: Unleash Your Java Development Potential</h1>
+            <h1 class="page-title">Best Machine Learning Course in Jaipur</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>Java Frameworks</li>
+                <li> Machine Learning Course</li>
             </ul>
         </div>
     </div>
@@ -51,69 +51,44 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Master Spring and Hibernate in Jaipur</h4>
-                                            <p>"Master Spring and Hibernate in Jaipur. Elevate your Java skills with our comprehensive course. Gain hands-on experience, expert guidance, and networking opportunities. Become a proficient developer and boost your career prospects.</p>
-                                            <h4>Course Overview: </h4>
-                                            <p>"Explore our comprehensive Spring and Hibernate course in Jaipur. Get expert instruction and hands-on experience to master Java development. Connect with a vibrant community and enhance your career prospects in the dynamic world of software engineering."</p>
+                                            <h4>Meta Description:</h4>
+                                            <p>Looking for the best machine learning course in Jaipur? Join our expert-led ML training in Jaipur and master the art of AI and data science. Enroll now for career-transforming machine learning education!</p>
+                                            <h4>Course Overview:</h4>
+                                            <p>Welcome to the premier destination for mastering Machine Learning in Jaipur. Our comprehensive Machine Learning course is designed to provide you with in-depth knowledge and practical skills in artificial intelligence and data science. Whether you're a beginner or an experienced professional, our expert-led training will empower you to excel in the rapidly evolving field of machine learning.</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
                                                 <li>1256 Reviews 5*</li>
                                             </ul>
                                             <h3>What You Will Learn:</h3>
-                                            <h5>Hibernate: </h5>
-
                                             <ul class="review-list">
-                                                <li><b>Hibernate Fundamentals:</b>ORM (Object-Relational Mapping) concepts.Hibernate architecture and configuration</li>
-                                                <li><b>Entity Mapping: </b> Mapping Java classes to database tables</li>
-                                                <li><b>Hibernate Query Language (HQL): </b>Writing and executing HQL queries. and Criteria API for dynamic queriess</li>
-                                                <li><b>Association Mapping: </b> One-to-One, One-to-Many, Many-to-One, and Many-to-Many relationships.</li>
-                                                <li><b>Caching: </b>First-level and second-level caching and Cache providers and configuration</li>
-                                                <li><b>Transactions and Concurrency: </b>ACID properties
-                                                    Managing transactions in Hibernate</li>
+                                                <li><b>Foundations of Machine Learning: </b> Strengthen your foundation in Java, including variables, data types, and control structures.</li>
+                                                <li><b>Data Preprocessing: </b>Learn techniques to clean, preprocess, and analyze data for machine learning.</li>
+                                                <li><b>Supervised and Unsupervised Learning</b>Explore both supervised and unsupervised machine learning algorithms.</li>
+                                                <li><b>Deep Learning:</b>Dive into neural networks and deep learning frameworks.</li>
+                                                <li><b>Real-World Applications:</b>Apply machine learning techniques to solve real-world problems in various domains.</li>
                                                 </li>
                                                 </li>
                                             </ul>
-                                            <h5>Spring Boot: </h5>
-
-                                            <ul class="review-list">
-                                                <li><b>Introduction to Spring Boot:</b>Advantages and features of Spring Boot,Project setup and initialization</li>
-                                                <li><b>Spring Boot Configuration: </b>Application properties and YAML files, Profile-specific configuration</li>
-                                                <li><b>Spring Boot MVC: </b>Building RESTful APIs and web applications.Spring Boot Starter for web applications</li>
-                                                <li><b>Data Access with Spring Data JPA:</b> Custom queries and methods.Repository interfaces.</li>
-                                                <li><b>Security with Spring Boot: </b>Implementing security in Spring Boot applications.Authentication and authorization</li>
-                                                <li><b>Microservices with Spring Boot: </b>Communication between microservices</li>
-                                                </li>
-                                                <li><b>Testing and Deployment: </b>Automatic application reloading .Improved developer productivity</li>
-                                                </li>
-
-                                                <li><b>Monitoring and Logging: </b>Application monitoring and management</li>
-                                                </li>
-
-                                                <li><b>Spring Boot Actuator: </b>Production-ready features</li>
-                                                </li>
-                                            </ul>
-
                                             <h3>Why Choose Our Course:</h3>
                                             <ul class="review-list">
-                                                <li><b>Local Expertise: </b> Learn from experienced JavaScript developers with insights into Jaipur's tech landscape.</li>
-                                                <li><b>Hands-On Learning: </b> Apply your knowledge through practical coding exercises and real-world projects, tailored to Jaipur's tech industry.</li>
-                                                <li><b>Career Prospects: </b> JavaScript proficiency opens doors to exciting job opportunities in Jaipur's thriving tech sector.</li>
-                                                <li><b>Personalized Learning: </b> Our course caters to various skill levels, ensuring everyone can harness the potential of JavaScript.</li>
+                                                <li><b>Expert Instructors:</b>Learn from industry experts with years of experience in machine learning and data science.</li>
+                                                <li><b>Hands-On Projects:</b>Gain practical experience by working on real-world machine learning projects. </li>
+                                                <li><b>Career Support </b> Access job placement resources and guidance for a successful career in machine learning.</li>
+                                                <li><b> Industry-Relevant Curriculum:</b>Connect with peers and experts to enhance your professional network. </li>
                                                 </li>
                                             </ul>
                                             <h3>Who Should Enroll</h3>
                                             <ul class="review-list">
-                                                <li>Aspiring web developers in Jaipur.</li>
-                                                <li>Students pursuing web development or related fields in Jaipur.</li>
-                                                <li>Professionals in Jaipur looking to enhance their JavaScript skills.</li>
-                                                <li>Tech enthusiasts residing in Jaipur eager to establish a solid foundation in JavaScript.</li>
+                                                <li>Aspiring developers in Jaipur.</li>
+                                                <li>Students pursuing computer science or related fields in Jaipur.</li>
+                                                <li>Professionals in Jaipur looking to enhance their Machine Learning skills.</li>
+                                                <li>Tech enthusiasts residing in Jaipur eager to master</li>
                                             </ul>
-                                            <h3>Your Core JavaScript Journey Begins in Jaipur: </h3>
-                                            <p>
-                                                "Embark on your Hibernate and Spring Boot journey in Jaipur: Expert-led, hands-on learning, comprehensive curriculum, job-ready skills, vibrant community, flexible options, career growth, industry recognition, practical application, trusted education provider."</p>
+                                            <h3>Enrollment:</h3>
+                                            <p>Ready to elevate your skills in machine learning? Enroll now to secure your spot in our upcoming batch. Limited seats available!</p>
                                             <h3>Get in Touch:</h3>
-                                            <p>Ready to establish your JavaScript skills in Jaipur? Contact us today to enroll in our Core JavaScript Course and start your path to becoming a JavaScript expert in Jaipur.</p> <!--                                           
+                                            <p>Ready to best Machine Learning Course in Jaipur? Contact us today to enroll in our Advanced Best Machine Learning Course and start your path to becoming a Best Machine Learning expert in Jaipur.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -133,7 +108,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingOne">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Hibernate Framework</button>
+                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">UI/ UX Introduction</button>
                                                 </h5>
                                             </div>
 
@@ -142,208 +117,129 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon">
-                                                                    <i class="fa fa-play"></i> Advantages of Hibernate compared to JDBC</a>
+                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Introduction.</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>ORM (Object Relational Mapping)</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Configuration xml file and Mapping xml file along with dtds.</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Hibernate architecture</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Installation and Directory Structure</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Hibernate Data Types.</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>First Application using Hibernate.</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Hibernate API</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>CRUD operations</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Primary key Generators</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Hibernate Query Language (HQL)</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Native SQL</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Criteria API</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Inheritance in Hibernate</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Relations(one to one, one to many, many to one, many to many)</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Caching</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Connecting with Multiple Databases</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Integrating Hibernate with Servlets and Struts</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Hibernate Annotations</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingTwo">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color
+                                                        Theory</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="card accordion block">
+                                            <div class="card-header" id="headingThree">
+                                                <h5 class="mb-0">
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic
+                                                        Typography</button>
+                                                </h5>
+                                            </div>
+                                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+                                                <div class="card-body acc-content">
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="content">
+                                                        <div class="clearfix">
+                                                            <div class="pull-left">
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
+                                                            </div>
+                                                            <div class="pull-right">
+                                                                <div class="minutes">35 Minutes</div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
