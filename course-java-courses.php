@@ -9,12 +9,12 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Learn Core Java Programming in Jaipur</h1>
+            <h1 class="page-title">Climb the Coding Ladder:Master Java Programming in Jaipur: Your Gateway to Tech Excellence</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>Core java Programming</li>
+                <li>Java Programming</li>
             </ul>
         </div>
     </div>
@@ -51,43 +51,46 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Learn Core Java Programming in Jaipur</h4>
-                                            <p>Welcome to our Core Java programming course in Jaipur! If you are looking to enhance your programming skills and dive deep into the world of Java, you are in the right place. Our comprehensive Core Java course is designed to cater to beginners and experienced programmers alike, offering a structured learning experience right here in Jaipur.</p>
-                                            <h4>Course Overview:</h4>
-                                            <p>Welcome to our Core Java course, meticulously designed for ambitious tech enthusiasts in Jaipur. At our institute, we understand the aspirations of Jaipur's tech community, and our Core Java course is tailored to equip you with essential skills that align with Jaipur's vibrant tech landscape.</p>
+                                            <h4>Explore Java Programming Courses in Jaipur</h4>
+                                            <p>Welcome to our specialized Java programming courses tailored for Jaipur's aspiring tech professionals. At our institute, we understand the unique aspirations and career needs of Jaipur's vibrant tech community. That's why we offer comprehensive Java courses designed to equip you with industry-relevant skills and knowledge, ensuring you stand out in Jaipur's competitive job market. </p>
+                                            <h4>Course Overview:Master the Skills You Need</h4>
+                                            <p>Welcome to our comprehensive course offerings designed to empower you with the knowledge and expertise you need to succeed. Our courses are meticulously crafted to cater to a diverse range of learners, from beginners eager to start their journey to experienced professionals looking to enhance their skills.</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
                                                 <li>1256 Reviews 5*</li>
                                             </ul>
-                                            <h3>What You Will Learn:</h3>
+                                            <h3>Why Choose Our Java Courses:</h3>
                                             <ul class="review-list">
-                                                <li><b>Java Fundamentals:</b> Master the basics of Java, including syntax, data types, and control structures.</li>
-                                                <li><b>Object-Oriented Programming (OOP):</b> Understand the principles of OOP, including classes, objects, and inheritance.</li>
-                                                <li><b>Exception Handling:</b> Learn how to handle errors and exceptions in Java programs.
+                                                <li><b>Comprehensive Curriculum:</b>Our courses cover Java fundamentals, object-oriented programming, advanced concepts, and real-world applications. From basics to advanced topics, we ensure a well-rounded learning experience.</li>
+                                                <li><b>Expert Instructors:</b>Learn from seasoned Java developers and educators who bring real-world insights and industry best practices into the classroom. Benefit from their expertise and guidance throughout your learning journey.</li>
+                                                <li><b>Hands-On Projects: </b>Apply your knowledge through hands-on projects, building applications and solving real-world problems. Practical experience is a key focus, allowing you to build a strong portfolio.</li>
+                                                <li><b>Interactive Learning:</b>Engage in interactive classes and discussions, promoting a dynamic learning environment. Collaborate with fellow learners, share ideas, and participate in coding challenges to enhance your skills.</li>
+                                                <li><b>Job-Relevant Skills: </b>Gain skills that are in high demand in Jaipur's tech industry. Whether you're seeking a career change or aiming to advance in your current job, our courses provide job-relevant skills.</li>
+                                                <li><b>Career Guidance: </b>Receive guidance on career pathways, job opportunities, and industry trends. Prepare for interviews and job applications with confidence.</li>
+                                                <li><b></b></li>
                                                 </li>
-                                                <li><b>Database Connectivity: </b> Explore database operations using Java Database Connectivity (JDBC).</li>
-                                                <li><b>GUI Development:</b>Create interactive user interfaces with JavaFX and Swing.</li>
-                                                <li><b>Multithreading: </b> Understand the concepts of multithreading and synchronization in Java applications.</li>
-                                            </ul>
-                                            <h3>Why Choose Our Course:</h3>
-                                            <ul class="review-list">
-                                                <li><b>Local Relevance:</b> Our course content is curated to match Jaipur's tech requirements. Learn skills that are directly applicable to Jaipur-based job roles.</li>
-                                                <li><b>Career Advancement:</b>Core Java proficiency opens doors to various tech roles in Jaipur, from software development to system architecture. Propel your career in Jaipur's thriving tech sector.</li>
-                                                <li><b>Networking Opportunities: </b>Connect with industry professionals and fellow learners in Jaipur. Expand your network and stay updated on Jaipur's tech developments.</li>
-                                                <li><b>Certification:</b> Earn a recognized certification upon completion, showcasing your expertise to Jaipur-based employers.</li>
                                                 </li>
                                             </ul>
-                                            <h3>Who Should Enroll:</h3>
+                                            <h3>Why Choose Our Java Courses in Jaipur:</h3>
                                             <ul class="review-list">
-                                                <li>Students: Pursuing a career in software development in Jaipur.</li>
-                                                <li>Professionals: IT experts seeking to upgrade their Java skills for Jaipur-based opportunities.</li>
-                                                <li>Entrepreneurs: Tech enthusiasts aiming to establish tech ventures in Jaipur.</li>
+                                                <li><b>Local Relevance:</b>Our courses are tailored to Jaipur's tech landscape, ensuring you learn skills directly applicable to local job requirements.</li>
+                                                <li><b>Career Advancement:</b> Java expertise opens doors to diverse career paths in Jaipur, from software development to system architecture. Advance in your current job or explore new opportunities.</li>
+                                                <li><b>Networking:</b>Connect with fellow learners and industry professionals in Jaipur. Expand your professional circle and stay updated on Jaipur's tech scene.</li>
+                                                <li><b>Certification:</b>Earn a recognized certification upon course completion. Showcase your skills and boost your resume's appeal to Jaipur-based employers.</li>
+                                                </li>
                                             </ul>
-                                            <h3>Your Jaipur Tech Journey Begins Here:</h3>
-                                            <p>With Dmart Skill Education's java Programming Course, you're not just learning syntax; you're acquiring the ability to shape digital experiences, solve problems, and build innovative solutions. We believe in nurturing a learning environment where curiosity is encouraged, questions are welcomed, and challenges are embraced. As you progress through the course, you'll gain confidence in your coding abilities and be well-prepared to embark on exciting coding ventures.</p>
-                                            <h3>Get in Touch:</h3>
-                                            <p>With Dmart Skill Education's Seize the opportunity to excel in Jaipur's tech industry. Enroll in our Core Java course today and unlock a world of possibilities in the Pink City.</p> <!--                                           
+                                            <h3>Who Should Enroll</h3>
+                                            <ul class="review-list">
+                                                <li><b>Students:</b> Computer science students aiming to excel in Java programming.</li>
+                                                <li><b>Professionals:</b> IT professionals seeking to enhance their Java skills for career growth in Jaipur.</li>
+                                                <li><b>Entrepreneurs:</b> Tech enthusiasts aspiring to launch tech startups in Jaipur.</li>
+                                                <li></li>
+                                            </ul>
+                                            <h3>Your Jaipur Tech Journey Begins Here: </h3>
+                                            <p> Ready to master Java programming in Jaipur? Enroll in our Java courses and join a community of passionate learners shaping Jaipur's tech future. Your journey to tech excellence starts now.</p>
+                                            <h3>Enroll Today and Excel Tomorrow:</h3>
+                                            <p>Seize the opportunity to excel in Jaipur's tech industry. Enroll in our Java courses today and unlock a world of possibilities in the Pink City.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -107,7 +110,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingOne">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">Basic of Java</button>
+                                                    <button class="btn btn-link acc-btn" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">h1</button>
                                                 </h5>
                                             </div>
 
@@ -117,90 +120,90 @@
                                                         <div class="clearfix">
                                                             <div class="pull-left">
                                                                 <a class="popup-videos play-icon">
-                                                                    <i class="fa fa-play"></i> Java - What, Where and Why?</a>
+                                                                    <i class="fa fa-play"></i> a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>History and Features of Java</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>History and Features of Java</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Difference between JDK,JRE and JVM</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Internal Details of JVM</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Variable and Data Type</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Types of Variable in Java</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a7</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Control Statements in Java</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a8</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Unicode System</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a9</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -210,7 +213,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingTwo">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"> Nested Classes</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">h2</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -218,60 +221,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Nested Class: What and Why?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>Member Inner class</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Anonymous Inner class</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Local Inner class</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>static nested class</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Nested Interface</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -281,7 +284,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Multithreading</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                                        h3</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -289,120 +293,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Multithreading : What and Why?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> Life Cycle of a Thread</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Creating Thread,Thread Scheduler</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Sleeping a thread</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Joining a thread</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Thread Priority</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Daemon Thread</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Thread Pooling</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Thread Group,Shutdown Hook</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Performing multiple task by multiple thread</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Garbage Collection</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Runnable class</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -412,7 +356,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingFour">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">Synchronization</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree"> h4</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseFour" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -420,60 +364,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Synchronization : What and Why?</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>synchronized method</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>synchronized block</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>static synchronization</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Deadlock</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Inter-thread Communication</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -483,7 +427,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingFaiv">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> Input and Output</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseFaiv" aria-expanded="false" aria-controls="collapseThree"> h5</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseFaiv" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -491,150 +435,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>FileOutputStream & FileInputStream</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> ByteArrayOutputStream</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>SequenceInputStream</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> BufferedOutputStream & BufferedInputStream</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>FileWriter & FileReader</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> CharArrayWriter</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by InputStreamReader</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by InputStreamReader</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Input from keyboard by Console</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Input from keyboard by Scanner </a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>PrintStream class </a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> PrintWriter class</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Reading and Writing data simultaneously</a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>DataInputStream and DataOutputStream </a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="content">
-                                                        <div class="clearfix">
-                                                            <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>StreamTokenizer class </a>
-                                                            </div>
-                                                            <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -644,7 +498,7 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingSix">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> AWT and EventHandling</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseThree"> h6</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseSix" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -652,60 +506,60 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>AWT Controls</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a1</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> EventHandling by 3 ways</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span> a2</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Event classes and Listener Interfaces</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a3</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Event classes and Listener Interfaces</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a4</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>Adapter classes</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>a5</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> Creating Games and Applications</a>
+                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span> a6</a>
                                                             </div>
                                                             <div class="pull-right">
-                                                                <div class="minutes"></div>
+                                                                <div class="minutes">35 Minutes</div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -724,7 +578,8 @@
                                                 <img src="assets/images/team/shivanshi-paliwal.jpeg" alt="">
                                                 <div class="content-part">
                                                     <h4 class="name"><a href="#">Shivanshi Paliwal</a></h4>
-                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring & Hibernate</span>
+                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring &
+                                                        Hibernate</span>
                                                     <ul class="social-links">
                                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -767,7 +622,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX Design?</a>
+                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -777,7 +633,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -787,7 +644,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -800,7 +658,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingEight">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color
+                                                        Theory</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion3">
@@ -808,7 +667,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -818,7 +678,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -828,7 +689,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -841,7 +703,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingNine">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic
+                                                        Typography</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion3">
@@ -849,7 +712,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -859,7 +723,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -869,7 +734,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -887,9 +753,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Stephane Smith</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -900,9 +770,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Anna Sthesia</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -913,9 +787,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Petey Cruiser</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -926,9 +804,13 @@
                                     <div class="cource-review-box">
                                         <h4>Rick O'Shea</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -946,93 +828,53 @@
                 <!-- Video Column -->
                 <div class="video-column col-lg-4">
                     <div class="inner-column">
-                        <!-- Get in tuch -->
-
-                        <div class="rs-quick-contact new-style">
-                            <div class="inner-part mb-50">
-                                <h2 class="title mb-15">Get In Touch</h2>
-                                <p><b>Ready to Take the Next Step?</b><br />
-
-                                    Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
-                            </div>
-                            <div id="form-messages"></div>
-                            <form method="post" action="./process.php">
-                                <div class="row">
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="name" name="name" placeholder="Name" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="email" name="email" placeholder="Email" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="phone" name="phone" placeholder="Phone" required="">
-                                    </div>
-                                    <div class="col-lg-6 mb-35 col-md-12">
-                                        <input class=" form-control" type="text" id="subject" name="courseName" placeholder="Course Name in that you are intersted" required="">
-                                    </div>
-
-                                    <div class="col-lg-12 mb-50">
-                                        <textarea class=" form-control" id="message" name="message" placeholder=" Message" required=""></textarea>
-                                    </div>
-                                </div>
-                                <div class="form-group mb-0">
-                                    <input class="btn-send form-control btn btn-success" type="submit" value="Submit Now">
-                                </div>
-                            </form>
+                        <!-- Video Box -->
+                        <div class="intro-video media-icon orange-color2">
+                            <img class="video-img" src="assets/images/about/about-video-bg2.png" alt="Video Image">
+                            <a class="popup-videos" href="https://www.youtube.com/watch?v=atMUy_bPoQI">
+                                <i class="fa fa-play"></i>
+                            </a>
+                            <h4>Preview this course</h4>
                         </div>
                         <!-- End Video Box -->
                         <div class="course-features-info">
-                            <h4 class="title mb-15">Our popular Courses</h4>
                             <ul>
                                 <li class="lectures-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Front End Development</span>
-                                    <a href="./course-front-end-development.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-files-o"></i>
+                                    <span class="label">Lectures</span>
+                                    <span class="value">3</span>
                                 </li>
 
                                 <li class="quizzes-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">Back End with java </span>
-                                    <a href="./course-bakcend-developemnt-with-java.php"><span class="value btn btn-success">Details</span></a>
+                                    <i class="fa fa-puzzle-piece"></i>
+                                    <span class="label">Quizzes</span>
+                                    <span class="value">0</span>
                                 </li>
 
                                 <li class="duration-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MERN Stack</span>
-                                    <a href="./course-frontend-development-reactjs.php"><span class="value btn btn-success">Details</span></a>
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">MEAN Stack </span>
-                                    <a href="./course-front-end-developemnt-angularjs.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-clock-o"></i>
+                                    <span class="label">Duration</span>
+                                    <span class="value">10 week </span>
                                 </li>
 
                                 <li class="students-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">React Native</span>
-                                    <a href="./course-react-native-application.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <i class="fa fa-users"></i>
+                                    <span class="label">Students</span>
+                                    <span class="value">21</span>
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with Python </span>
-                                    <a href="./course-bakcend-developemnt-with-python-django.php"><span class="value btn btn-success">Details</span></a>
-
-                                </li>
-
-                                <li class="assessments-feature">
-                                    <i class="fa fa-check-square-o"></i>
-                                    <span class="label">BackEnd with PHP </span>
-                                    <a href="./course-bakcend-developemnt-with-php.php"><span class="value btn btn-success">Details</span></a>
-
+                                    <span class="label">Assessments</span>
+                                    <span class="value">Yes</span>
                                 </li>
                             </ul>
                         </div>
 
-
+                        <div class="btn-part">
+                            <a href="#" class="btn readon2 orange">$35</a>
+                            <a href="#" class="btn readon2 orange-transparent">Buy Now</a>
+                        </div>
                     </div>
                 </div>
             </div>

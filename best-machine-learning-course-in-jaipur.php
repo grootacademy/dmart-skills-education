@@ -1,56 +1,5 @@
 <?php include('includes/header.php'); ?>
-<!-- Canvas Menu start -->
-<nav class="right_menu_togle hidden-md">
-    <div class="close-btn">
-        <div id="nav-close">
-            <div class="line">
-                <span class="line1"></span><span class="line2"></span>
-            </div>
-        </div>
-    </div>
-    <div class="canvas-logo">
-        <a href="index-2.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
-    </div>
-    <div class="offcanvas-text">
-        <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo by the charms of pleasure of the moment data com so blinded by desire.</p>
-    </div>
-    <div class="offcanvas-gallery">
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/1.jpg"><img src="assets/images/gallery/1.jpg" alt=""></a>
-        </div>
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/2.jpg"><img src="assets/images/gallery/2.jpg" alt=""></a>
-        </div>
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/3.jpg"><img src="assets/images/gallery/3.jpg" alt=""></a>
-        </div>
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/4.jpg"><img src="assets/images/gallery/4.jpg" alt=""></a>
-        </div>
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/5.jpg"><img src="assets/images/gallery/5.jpg" alt=""></a>
-        </div>
-        <div class="gallery-img">
-            <a class="image-popup" href="assets/images/gallery/6.jpg"><img src="assets/images/gallery/6.jpg" alt=""></a>
-        </div>
-    </div>
-    <div class="map-img">
-        <img src="assets/images/map.jpg" alt="">
-    </div>
-    <div class="canvas-contact">
-        <ul class="social">
-            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-        </ul>
-    </div>
-</nav>
-<!-- Canvas Menu end -->
-</header>
-<!--Header End-->
-</div>
-<!--Full width header End-->
+
 
 <!-- Main content Start -->
 <div class="main-content">
@@ -60,12 +9,12 @@
             <img src="assets/images/breadcrumbs/2.jpg" alt="Breadcrumbs Image">
         </div>
         <div class="breadcrumbs-text white-color">
-            <h1 class="page-title">Learn Programming Languages from Scratch</h1>
+            <h1 class="page-title">Best Machine Learning Course in Jaipur</h1>
             <ul>
                 <li>
                     <a class="active" href="courses.php">Courses</a>
                 </li>
-                <li>Programming Languages</li>
+                <li> Machine Learning Course</li>
             </ul>
         </div>
     </div>
@@ -102,24 +51,44 @@
                                     <!-- Cource Overview -->
                                     <div class="course-overview">
                                         <div class="inner-box">
-                                            <h4>Your Code, Your Voice: Learn C++, Java, Python, and More for Endless Possibilities</h4>
-                                            <p>Dive into the Heart of Coding Excellence<br />
-                                                Our Programming Languages courses are the stepping stones to unleashing your coding potential. With a focus on building a strong foundation, we offer comprehensive training in various languages that underpin the digital world.</p>
-                                            <p>Build a strong foundation with in-depth courses on C and C++, Java, Python, JavaScript, and Data Structures and Algorithms. Unleash your coding prowess.</p>
+                                            <h4>Meta Description:</h4>
+                                            <p>Looking for the best machine learning course in Jaipur? Join our expert-led ML training in Jaipur and master the art of AI and data science. Enroll now for career-transforming machine learning education!</p>
+                                            <h4>Course Overview:</h4>
+                                            <p>Welcome to the premier destination for mastering Machine Learning in Jaipur. Our comprehensive Machine Learning course is designed to provide you with in-depth knowledge and practical skills in artificial intelligence and data science. Whether you're a beginner or an experienced professional, our expert-led training will empower you to excel in the rapidly evolving field of machine learning.</p>
                                             <ul class="student-list">
                                                 <li>2221 Total Students</li>
                                                 <li><span class="theme_color">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span> (1254 Rating)</li>
                                                 <li>1256 Reviews 5*</li>
                                             </ul>
-                                            <h3>What can learn Here?</h3>
+                                            <h3>What You Will Learn:</h3>
                                             <ul class="review-list">
-                                                <li>C and C++ Programming.</li>
-                                                <li>Master Java Programming craft your career as strong Backend Developoper with Advace Java, Spring & HIbernate, MicroServics Architecture Desinging</li>
-                                                <li>Master Python Programming craft your career to the Data Analytics, Data Engineer, Data Science, Mahine Learning, Artificial Intelligence </li>
-                                                <li>Master JavaScript Scripting language and deep dive into the ReactJs & Node JS</li>
-                                                <li>Data Structure and Algorithms</li>
+                                                <li><b>Foundations of Machine Learning: </b> Strengthen your foundation in Java, including variables, data types, and control structures.</li>
+                                                <li><b>Data Preprocessing: </b>Learn techniques to clean, preprocess, and analyze data for machine learning.</li>
+                                                <li><b>Supervised and Unsupervised Learning</b>Explore both supervised and unsupervised machine learning algorithms.</li>
+                                                <li><b>Deep Learning:</b>Dive into neural networks and deep learning frameworks.</li>
+                                                <li><b>Real-World Applications:</b>Apply machine learning techniques to solve real-world problems in various domains.</li>
+                                                </li>
+                                                </li>
                                             </ul>
-                                            <!--
+                                            <h3>Why Choose Our Course:</h3>
+                                            <ul class="review-list">
+                                                <li><b>Expert Instructors:</b>Learn from industry experts with years of experience in machine learning and data science.</li>
+                                                <li><b>Hands-On Projects:</b>Gain practical experience by working on real-world machine learning projects. </li>
+                                                <li><b>Career Support </b> Access job placement resources and guidance for a successful career in machine learning.</li>
+                                                <li><b> Industry-Relevant Curriculum:</b>Connect with peers and experts to enhance your professional network. </li>
+                                                </li>
+                                            </ul>
+                                            <h3>Who Should Enroll</h3>
+                                            <ul class="review-list">
+                                                <li>Aspiring developers in Jaipur.</li>
+                                                <li>Students pursuing computer science or related fields in Jaipur.</li>
+                                                <li>Professionals in Jaipur looking to enhance their Machine Learning skills.</li>
+                                                <li>Tech enthusiasts residing in Jaipur eager to master</li>
+                                            </ul>
+                                            <h3>Enrollment:</h3>
+                                            <p>Ready to elevate your skills in machine learning? Enroll now to secure your spot in our upcoming batch. Limited seats available!</p>
+                                            <h3>Get in Touch:</h3>
+                                            <p>Ready to best Machine Learning Course in Jaipur? Contact us today to enroll in our Advanced Best Machine Learning Course and start your path to becoming a Best Machine Learning expert in Jaipur.</p> <!--                                           
                                             <h3>Requirements</h3>
                                             <ul class="review-list">
                                                 <li>Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo</li>
@@ -148,7 +117,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX Design?</a>
+                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -158,7 +128,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -168,7 +139,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -181,7 +153,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingTwo">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">Color
+                                                        Theory</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
@@ -189,7 +162,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -199,7 +173,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -209,7 +184,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -222,7 +198,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingThree">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">Basic
+                                                        Typography</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
@@ -230,7 +207,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -240,7 +218,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -250,7 +229,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -272,7 +252,8 @@
                                                 <img src="assets/images/team/shivanshi-paliwal.jpeg" alt="">
                                                 <div class="content-part">
                                                     <h4 class="name"><a href="#">Shivanshi Paliwal</a></h4>
-                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring & Hibernate</span>
+                                                    <span class="designation">C, C++, DSA, J2SE, J2EE, Spring &
+                                                        Hibernate</span>
                                                     <ul class="social-links">
                                                         <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                                         <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -315,7 +296,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX Design?</a>
+                                                                <a class="popup-videos play-icon" href="https://www.youtube.com/watch?v=atMUy_bPoQI"><i class="fa fa-play"></i>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -325,7 +307,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -335,7 +318,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -348,7 +332,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingEight">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color Theory</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">Color
+                                                        Theory</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseEight" class="collapse" aria-labelledby="headingEight" data-parent="#accordion3">
@@ -356,7 +341,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -366,7 +352,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -376,7 +363,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -389,7 +377,8 @@
                                         <div class="card accordion block">
                                             <div class="card-header" id="headingNine">
                                                 <h5 class="mb-0">
-                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic Typography</button>
+                                                    <button class="btn btn-link acc-btn collapsed" data-toggle="collapse" data-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">Basic
+                                                        Typography</button>
                                                 </h5>
                                             </div>
                                             <div id="collapseNine" class="collapse" aria-labelledby="headingNine" data-parent="#accordion3">
@@ -397,7 +386,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -407,7 +397,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"><i class="ripple"></i></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -417,7 +408,8 @@
                                                     <div class="content">
                                                         <div class="clearfix">
                                                             <div class="pull-left">
-                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX Design?</a>
+                                                                <a href="https://www.youtube.com/watch?v=kxPCFljwJws" class="popup-videos play-icon"><span class="fa fa-play"></span>What is UI/ UX
+                                                                    Design?</a>
                                                             </div>
                                                             <div class="pull-right">
                                                                 <div class="minutes">35 Minutes</div>
@@ -435,9 +427,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Stephane Smith</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -448,9 +444,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Anna Sthesia</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -461,9 +461,13 @@
                                     <div class="cource-review-box mb-30">
                                         <h4>Petey Cruiser</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
@@ -474,9 +478,13 @@
                                     <div class="cource-review-box">
                                         <h4>Rick O'Shea</h4>
                                         <div class="rating">
-                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256 Reviews
+                                            <span class="total-rating">4.5</span> <span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span><span class="fa fa-star"></span>&ensp; 256
+                                            Reviews
                                         </div>
-                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.</div>
+                                        <div class="text">Phasellus enim magna, varius et commodo ut, ultricies vitae
+                                            velit. Ut nulla tellus, eleifend euismod pellentesque vel, sagittis vel
+                                            justo. In libero urna, venenatis sit amet ornare non, suscipit nec risus.
+                                        </div>
                                         <div class="helpful">Was this review helpful?</div>
                                         <ul class="like-option">
                                             <li><i class="fa fa-thumbs-o-up"></i></li>
