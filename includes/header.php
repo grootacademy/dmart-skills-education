@@ -157,7 +157,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="col-lg-2">
                             <div class="logo-cat-wrap">
                                 <div class="logo-part">
-                                    <a href="index-2.html">
+                                    <a href="#">
                                         <!-- <img src="assets/images/logo-green.png" alt=""> -->
                                         <h3 style="color:#0c8b51">Dmart Skill Education</h3>
                                     </a>
@@ -341,7 +341,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                 </div>
                 <div class="canvas-logo">
-                    <a href="index-2.html"><img src="assets/images/dark-logo.png" alt="logo"></a>
+                    <a href="#"><img src="assets/images/dark-logo.png" alt="logo"></a>
                 </div>
                 <div class="offcanvas-text">
                     <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo by the charms of pleasure of the moment data com so blinded by desire.</p>

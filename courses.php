@@ -10,7 +10,7 @@
                         </div>
                     </div>
                     <div class="canvas-logo">
-                        <a href="index-2.html"><img src="assets/images/logo-dark-logo.html" alt="logo"></a>
+                        <a href="#"><img src="assets/images/logo-dark-logo.html" alt="logo"></a>
                     </div>
                     <div class="offcanvas-text">
                         <p>We denounce with righteous indige nationality and dislike men who are so beguiled and demo  by the charms of pleasure of the moment data com so blinded by desire.</p>
@@ -64,7 +64,7 @@
                     <h1 class="page-title">Course Grid 01</h1>
                     <ul>
                         <li>
-                            <a class="active" href="index-2.html">Home</a>
+                            <a class="active" href="#">Home</a>
                         </li>
                         <li>Course</li>
                     </ul>
