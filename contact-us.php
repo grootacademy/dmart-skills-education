@@ -14,7 +14,7 @@
                             </div>
                             <div class="content-part">
                                 <h5 class="info-subtitle">Address</h5>
-                                <h6 class="info-title">2nd, Near, Plot No 122/66 A, Chauraha, Vijay Path, near Madhyam Marg, opp. Ram Tirth Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
+                                <h6 class="info-title">2nd Floor, , Plot No 122/66 A, Chauraha, Vijay Path, near Madhyam Marg, opp. Ram Tirth Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
                             </div>
                         </div>
                     </div>
