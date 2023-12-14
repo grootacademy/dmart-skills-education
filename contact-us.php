@@ -7,18 +7,18 @@
         <div class="contact-page-section pt-100 pb-100 md-pt-70 md-pb-70">
             <div class="container">
                 <div class="row contact-address-section">
-                    <div class=" col-lg-4 col-md-12 lg-pl-0 md-mb-30">
+                    <div class=" col-lg-6 col-md-12 lg-pl-0 md-mb-30">
                         <div class="contact-info contact-address">
                             <div class="icon-part">
                                 <i class="fa fa-map-marker"></i>
                             </div>
                             <div class="content-part">
                                 <h5 class="info-subtitle">Address</h5>
-                                <h6 class="info-title">D Mart, IHITC Durgapur, Mansarovar, Jaipur, Rajasthan 302020 </h6>
+                                <h6 class="info-title">2nd, Near, Plot No 122/66 A, Chauraha, Vijay Path, near Madhyam Marg, opp. Ram Tirth Marg, Mansarovar, Jaipur, Rajasthan 302020 </h6>
                             </div>
                         </div>
                     </div>
-                    <div class=" col-lg-4 col-md-12 md-mb-30">
+                    <div class=" col-lg-6 col-md-12 md-mb-30">
                         <div class="contact-info contact-mail">
                             <div class="icon-part">
                                 <i class="fa fa-envelope-o"></i>
