@@ -138,8 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-7 text-right">
                             <ul class="toolbar-sl-share">
-                                <li class="opening"> <i class="flaticon-location"></i>D Mart, IHITC Durgapur,
-                                    Mansarovar, Jaipur, Rajasthan 302020 </li>
+                                <li class="opening"> <i class="flaticon-location"></i>2nd, Near, Plot No 122/66 A, Mansarovar, Jaipur, Rajasthan 302020 </li>
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                                 <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
