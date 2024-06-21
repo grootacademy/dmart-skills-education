@@ -284,7 +284,7 @@ ul {
   background-position: center center;
 }
 .bg12 {
-  background: url(assets/images/bg/home13/footer-bg.html);
+  background: url(assets/images/bg/home13/footer.php-bg.html);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -14095,7 +14095,7 @@ body .modal-backdrop {
 ------------------------------------*/
 .rs-footer {
   background-color: #273c66;
-  background-image: url(assets/images/bg/footer-bg.png);
+  background-image: url(assets/images/bg/footer.php-bg.png);
   background-size: cover;
 }
 .rs-footer .footer-top {
@@ -14282,7 +14282,7 @@ body .modal-backdrop {
 }
 .rs-footer.orange-footer {
   background-color: #151515;
-  background-image: url(assets/images/bg/footer-bg2.jpg);
+  background-image: url(assets/images/bg/footer.php-bg2.jpg);
 }
 .rs-footer.orange-footer .footer-top .widget-title {
   color: #ffffff;
@@ -14575,7 +14575,7 @@ body .modal-backdrop {
   background: rgba(255, 255, 255, 0.1);
 }
 .rs-footer.home9-style.main-home.home13-style {
-  background: url(assets/images/bg/home13/footer.jpg);
+  background: url(assets/images/bg/home13/footer.php.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }

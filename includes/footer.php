@@ -36,7 +36,7 @@
               <div class="row">
                   <div class="col-lg-3 col-md-12 col-sm-12 footer-widget md-mb-50">
                       <div class="footer-logo mb-30">
-                          <a href="index.php">
+                          <a href="index">
                               <!-- <img src="assets/images/logo-green.png" alt=""> -->
                           </a>
                       </div>
@@ -127,7 +127,7 @@
               </div>
           </div>
       </div>
-  </footer>
+  </footer.php>
   <!-- Footer End -->
 
 

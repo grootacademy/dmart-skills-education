@@ -1,6 +1,49 @@
 <?php include('includes/header.php'); ?>
 
+<meta charset="utf-8">
 
+    <title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development),
+        Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science
+        Certification & Training Course - Dmart Skill Education</title>
+
+    <meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture" />
+    <meta name="description" content="<p>Dmart Skil Education is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+    stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+    ">
+    <link rel="canonical" href="https://dmartskilleducation.com/" />
+    <meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Dmart Skill Education">
+    <meta name="copyright" content="Dmart Skill Education" />
+
+
+    <meta name="author" content="Dmart Skill Education Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+    <meta property="og:site_name" content="Dmart Skill Education">
+    <meta property="og:url" content="https://dmartskilleducation.com">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dmart Skill Education, Software Development, Web Desinging and Development Training Center">
+    <meta property="og:description" content="<p>Dmart Skill Eucation is one of the best Java, Advance Java, Java Framworks (Structs, Spring, Spring Boot and Hibernate), Web Desinging, Web development and Various Web Technologies and stacks like : ReactJS, NodeJS, ExpressJS Certification and training  course provider in Jaipur, They are having various Java Orineted course Likes : Full Stack Web development with NodeJS also known as MERN stack Web development, Full stack Web development with Java, Full 
+    stack Web development with python Django , Full stack Web development with PHP, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Data Engineer in Jaipur, Rajasthan,.100% Job Placement.</p>
+    ">
+    <meta property="og:image" content="https://dmartskilleducation.com/assets/img/groot.png">
+
+
+    <meta property="og:image:width" content="90">
+    <meta property="og:image:height" content="90">
+
+
+    <meta name="language" content="en-us" />
+    <meta name="distribution" content="Global">
+    <meta name="Publisher" content="https://dmartskilleducation.com">
+    <meta name="Rating" content="General">
+    <meta name=geography content="India ">
+    <meta name="geo.region" content="JP-RJ" />
+    <meta name="geo.placename" content="Jaipur" />
+    <meta name="Search Engine" CONTENT="https://www.google.co.in/">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- responsive tag -->
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <?php include('includes/navebar.php'); ?>
 <!-- Main content Start -->
 <div class="main-content">
     <!-- Breadcrumbs Start -->
@@ -12,7 +55,7 @@
             <h1 class="page-title">Master Advanced JavaScript in Jaipur</h1>
             <ul>
                 <li>
-                    <a class="active" href="courses.php">Courses</a>
+                    <a class="active" href="courses">Courses</a>
                 </li>
                 <li>Advanced JavaScript Programming</li>
             </ul>
@@ -740,7 +783,7 @@
                                     Embark on a journey of knowledge, skill enhancement, and career advancement with Dmart Skill Education. Contact us today to explore the courses that will shape your future in IT.</p>
                             </div>
                             <div id="form-messages"></div>
-                            <form method="post" action="./process.php">
+                            <form method="post" action="./process">
                                 <div class="row">
                                     <div class="col-lg-6 mb-35 col-md-12">
                                         <input class=" form-control" type="text" id="name" name="name" placeholder="Name" required="">
@@ -771,46 +814,46 @@
                                 <li class="lectures-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">Front End Development</span>
-                                    <a href="./course-front-end-development.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-front-end-development"><span class="value btn btn-success">Details</span></a>
                                 </li>
 
                                 <li class="quizzes-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">Back End with java </span>
-                                    <a href="./course-bakcend-developemnt-with-java.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-bakcend-developemnt-with-java"><span class="value btn btn-success">Details</span></a>
                                 </li>
 
                                 <li class="duration-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">MERN Stack</span>
-                                    <a href="./course-frontend-development-reactjs.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-frontend-development-reactjs"><span class="value btn btn-success">Details</span></a>
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">MEAN Stack </span>
-                                    <a href="./course-front-end-developemnt-angularjs.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-front-end-developemnt-angularjs"><span class="value btn btn-success">Details</span></a>
 
                                 </li>
 
                                 <li class="students-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">React Native</span>
-                                    <a href="./course-react-native-application.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-react-native-application"><span class="value btn btn-success">Details</span></a>
 
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">BackEnd with Python </span>
-                                    <a href="./course-bakcend-developemnt-with-python-django.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-bakcend-developemnt-with-python-django"><span class="value btn btn-success">Details</span></a>
 
                                 </li>
 
                                 <li class="assessments-feature">
                                     <i class="fa fa-check-square-o"></i>
                                     <span class="label">BackEnd with PHP </span>
-                                    <a href="./course-bakcend-developemnt-with-php.php"><span class="value btn btn-success">Details</span></a>
+                                    <a href="./course-bakcend-developemnt-with-php"><span class="value btn btn-success">Details</span></a>
 
                                 </li>
                             </ul>
