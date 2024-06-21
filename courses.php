@@ -43,7 +43,7 @@
     <!-- responsive tag -->
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <?php include('includes/navebar.php'); ?>
+    <?php include('includes/navbar.php'); ?>
 
                 <!-- Canvas Menu start -->
                 <nav class="right_menu_togle hidden-md">
